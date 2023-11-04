@@ -1,0 +1,2335 @@
+[INFO][0][<module>] Darwin CMPG7MP2G29J2.local 22.4.0 Darwin Kernel Version 22.4.0: Mon Mar  6 20:59:28 PST 2023; root:xnu-8796.101.5~3/RELEASE_ARM64_T6000 x86_64 i386
+[INFO][0][<module>] /opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB (2.7)
+[INFO][0][<module>] /opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/numpy (1.25.0)
+[INFO][0][<module>] /opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/matplotlib (3.7.1)
+[INFO][0][<module>] /opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/netCDF4 (1.6.4)
+[INFO][0][<module>] /opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/cf_units (3.2.0)
+[INFO][0][<module>] /opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/sympy (1.12)
+[INFO][0][<module>] /opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/mpi4py (3.1.4)
+[INFO][0][<module>] 2023-11-03 14:37:25.776998
+[INFO][0][MakeComparable][Biomass/Berner][CABLE-POP] Spatial data was clipped from the comparison:  before: [121 176 360] after: [121   6  30]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/Berner][CABLE-POP] Success
+[INFO][0][MakeComparable][Biomass/Berner][CLASSIC] Spatial data was clipped from the comparison:  before: [ 10  64 128] after: [10  3 11]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/Berner][CLASSIC] Success
+[INFO][0][MakeComparable][Biomass/Berner][CLM5] Spatial data was clipped from the comparison:  before: [ 10 192 288] after: [10  6 24]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/Berner][CLM5] Success
+[INFO][0][MakeComparable][Biomass/Berner][DLEM] Spatial data was clipped from the comparison:  before: [ 10 360 720] after: [10 10 59]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/Berner][DLEM] Success
+[INFO][0][MakeComparable][Biomass/Berner][IBIS] Spatial data was clipped from the comparison:  before: [ 10 180 360] after: [10  6 30]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/Berner][IBIS] Success
+[INFO][0][MakeComparable][Biomass/Berner][ISAM] Spatial data was clipped from the comparison:  before: [ 10 360 720] after: [10 10 59]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/Berner][ISAM] Success
+[INFO][0][MakeComparable][Biomass/Berner][ISBA-CTRIP] Spatial data was clipped from the comparison:  before: [120 176 360] after: [120   6  30]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/Berner][ISBA-CTRIP] Success
+[INFO][0][MakeComparable][Biomass/Berner][JSBACH] Spatial data was clipped from the comparison:  before: [ 10  96 192] after: [10  4 16]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/Berner][JSBACH] Success
+[INFO][0][MakeComparable][Biomass/Berner][JULES] Spatial data was clipped from the comparison:  before: [120 144 192] after: [120   5  16]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/Berner][JULES] Success
+[INFO][0][MakeComparable][Biomass/Berner][LPJ-GUESS] Spatial data was clipped from the comparison:  before: [ 10 360 720] after: [10 10 59]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/Berner][LPJ-GUESS] Success
+[INFO][0][MakeComparable][Biomass/Berner][LPJwsl] Spatial data was clipped from the comparison:  before: [ 10 360 720] after: [10 10 59]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/Berner][LPJwsl] Success
+[INFO][0][MakeComparable][Biomass/Berner][LPX-Bern] Spatial data was clipped from the comparison:  before: [ 10 360 720] after: [10 10 59]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/Berner][LPX-Bern] Success
+[INFO][0][MakeComparable][Biomass/Berner][OCN] Spatial data was clipped from the comparison:  before: [ 10 180 360] after: [10  6 30]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/Berner][OCN] Success
+[INFO][0][MakeComparable][Biomass/Berner][ORCHIDEE] Spatial data was clipped from the comparison:  before: [ 10 360 720] after: [10 10 59]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/Berner][ORCHIDEE] Success
+[INFO][0][MakeComparable][Biomass/Berner][ORCHIDEE-CNP] Spatial data was clipped from the comparison:  before: [ 10  90 180] after: [10  3 16]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/Berner][ORCHIDEE-CNP] Success
+[INFO][0][MakeComparable][Biomass/Berner][ORCHIDEEv3] Spatial data was clipped from the comparison:  before: [ 10 360 720] after: [10 10 59]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/Berner][ORCHIDEEv3] Success
+[DEBUG][0][WorkConfront][Biomass/Berner][SDGVM]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 359, in extractTimeSeries
+    var = Variable(
+          ^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Variable.py", line 140, in __init__
+    out = il.FromNetCDF4(
+          ^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ilamblib.py", line 941, in FromNetCDF4
+    t, t_bnd, cbounds, begin, end, calendar = GetTime(
+                                              ^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ilamblib.py", line 334, in GetTime
+    tf = ConvertCalendar(tf, t.units, t.calendar)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ilamblib.py", line 250, in ConvertCalendar
+    return cf.date2num(
+           ^^^^^^^^^^^^
+  File "src/cftime/_cftime.pyx", line 281, in cftime._cftime.date2num
+  File "src/cftime/_cftime.pyx", line 393, in cftime._cftime.to_calendar_specific_datetime
+  File "src/cftime/_cftime.pyx", line 2094, in cftime._cftime.Datetime360Day.__init__
+  File "src/cftime/_cftime.pyx", line 1170, in cftime._cftime.datetime.__init__
+  File "src/cftime/_cftime.pyx", line 1755, in cftime._cftime.assert_valid_date
+ValueError: invalid day number provided in cftime.Datetime360Day(2016, 12, 31, 0, 0, 0, 0, has_year_zero=True)
+
+[INFO][0][MakeComparable][Biomass/Berner][TRENDY_Mean] Spatial data was clipped from the comparison:  before: [107 180 360] after: [107   6  30]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/Berner][TRENDY_Mean] Success
+[INFO][0][MakeComparable][Biomass/Berner][VISIT] Spatial data was clipped from the comparison:  before: [120 360 720] after: [120  10  59]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/Berner][VISIT] Success
+[INFO][0][MakeComparable][Biomass/Berner][YIBs] Spatial data was clipped from the comparison:  before: [ 10 181 360] after: [10  5 30]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/Berner][YIBs] Success
+[INFO][0][MakeComparable][Biomass/NACP][CABLE-POP] Spatial data was clipped from the comparison:  before: [ 13 176 360] after: [ 13  67 360]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/NACP][CABLE-POP] Success
+[INFO][0][MakeComparable][Biomass/NACP][CLASSIC] Spatial data was clipped from the comparison:  before: [  1  64 128] after: [  1  24 128]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/NACP][CLASSIC] Success
+[INFO][0][MakeComparable][Biomass/NACP][CLM5] Spatial data was clipped from the comparison:  before: [  1 192 288] after: [  1  72 288]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/NACP][CLM5] Success
+[INFO][0][MakeComparable][Biomass/NACP][DLEM] Spatial data was clipped from the comparison:  before: [  1 360 720] after: [  1 134 720]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/NACP][DLEM] Success
+[INFO][0][MakeComparable][Biomass/NACP][IBIS] Spatial data was clipped from the comparison:  before: [  1 180 360] after: [  1  67 360]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/NACP][IBIS] Success
+[INFO][0][MakeComparable][Biomass/NACP][ISAM] Spatial data was clipped from the comparison:  before: [  1 360 720] after: [  1 134 720]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/NACP][ISAM] Success
+[INFO][0][MakeComparable][Biomass/NACP][ISBA-CTRIP] Spatial data was clipped from the comparison:  before: [ 12 176 360] after: [ 12  67 360]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/NACP][ISBA-CTRIP] Success
+[INFO][0][MakeComparable][Biomass/NACP][JSBACH] Spatial data was clipped from the comparison:  before: [  1  96 192] after: [  1  36 192]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/NACP][JSBACH] Success
+[INFO][0][MakeComparable][Biomass/NACP][JULES] Spatial data was clipped from the comparison:  before: [ 12 144 192] after: [ 12  54 192]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/NACP][JULES] Success
+[INFO][0][MakeComparable][Biomass/NACP][LPJ-GUESS] Spatial data was clipped from the comparison:  before: [  1 360 720] after: [  1 134 720]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/NACP][LPJ-GUESS] Success
+[INFO][0][MakeComparable][Biomass/NACP][LPJwsl] Spatial data was clipped from the comparison:  before: [  1 360 720] after: [  1 134 720]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/NACP][LPJwsl] Success
+[INFO][0][MakeComparable][Biomass/NACP][LPX-Bern] Spatial data was clipped from the comparison:  before: [  1 360 720] after: [  1 134 720]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/NACP][LPX-Bern] Success
+[INFO][0][MakeComparable][Biomass/NACP][OCN] Spatial data was clipped from the comparison:  before: [  1 180 360] after: [  1  67 360]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/NACP][OCN] Success
+[INFO][0][MakeComparable][Biomass/NACP][ORCHIDEE] Spatial data was clipped from the comparison:  before: [  1 360 720] after: [  1 134 720]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/NACP][ORCHIDEE] Success
+[INFO][0][MakeComparable][Biomass/NACP][ORCHIDEE-CNP] Spatial data was clipped from the comparison:  before: [  1  90 180] after: [  1  34 180]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/NACP][ORCHIDEE-CNP] Success
+[INFO][0][MakeComparable][Biomass/NACP][ORCHIDEEv3] Spatial data was clipped from the comparison:  before: [  1 360 720] after: [  1 134 720]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/NACP][ORCHIDEEv3] Success
+[DEBUG][0][WorkConfront][Biomass/NACP][SDGVM]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 359, in extractTimeSeries
+    var = Variable(
+          ^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Variable.py", line 140, in __init__
+    out = il.FromNetCDF4(
+          ^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ilamblib.py", line 941, in FromNetCDF4
+    t, t_bnd, cbounds, begin, end, calendar = GetTime(
+                                              ^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ilamblib.py", line 334, in GetTime
+    tf = ConvertCalendar(tf, t.units, t.calendar)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ilamblib.py", line 250, in ConvertCalendar
+    return cf.date2num(
+           ^^^^^^^^^^^^
+  File "src/cftime/_cftime.pyx", line 281, in cftime._cftime.date2num
+  File "src/cftime/_cftime.pyx", line 393, in cftime._cftime.to_calendar_specific_datetime
+  File "src/cftime/_cftime.pyx", line 2094, in cftime._cftime.Datetime360Day.__init__
+  File "src/cftime/_cftime.pyx", line 1170, in cftime._cftime.datetime.__init__
+  File "src/cftime/_cftime.pyx", line 1755, in cftime._cftime.assert_valid_date
+ValueError: invalid day number provided in cftime.Datetime360Day(2000, 12, 31, 0, 0, 0, 0, has_year_zero=True)
+
+[INFO][0][MakeComparable][Biomass/NACP][TRENDY_Mean] Spatial data was clipped from the comparison:  before: [ 12 180 360] after: [ 12  67 360]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/NACP][TRENDY_Mean] Success
+[INFO][0][MakeComparable][Biomass/NACP][VISIT] Spatial data was clipped from the comparison:  before: [ 12 360 720] after: [ 12 134 720]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/NACP][VISIT] Success
+[INFO][0][MakeComparable][Biomass/NACP][YIBs] Spatial data was clipped from the comparison:  before: [  1 181 360] after: [  1  68 360]
+[INFO][0][AnalysisMeanStateSpace][biomass] Bias scored using Collier2018
+[INFO][0][confront][Biomass/NACP][YIBs] Success
+[INFO][0][AnalysisMeanStateSites][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/ABCflux][CABLE-POP] Success
+[INFO][0][AnalysisMeanStateSites][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/ABCflux][CLASSIC] Success
+[INFO][0][AnalysisMeanStateSites][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/ABCflux][CLM5] Success
+[INFO][0][AnalysisMeanStateSites][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/ABCflux][DLEM] Success
+[INFO][0][AnalysisMeanStateSites][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/ABCflux][IBIS] Success
+[INFO][0][AnalysisMeanStateSites][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/ABCflux][ISAM] Success
+[INFO][0][AnalysisMeanStateSites][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/ABCflux][ISBA-CTRIP] Success
+[INFO][0][AnalysisMeanStateSites][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/ABCflux][JSBACH] Success
+[DEBUG][0][extractTimeSeries][JULES] Could not find [ra] in the model results
+[DEBUG][0][WorkConfront][EcosystemRespiration/ABCflux][JULES]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 409, in extractTimeSeries
+    v = self.derivedVariable(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 495, in derivedVariable
+    Vs[arg] = self.extractTimeSeries(
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 433, in extractTimeSeries
+    raise il.VarNotInModel()
+ILAMB.ilamblib.VarNotInModel: VarNotInModel
+
+[DEBUG][0][extractTimeSeries][LPJ-GUESS] Could not find [rh] in the model results
+[DEBUG][0][WorkConfront][EcosystemRespiration/ABCflux][LPJ-GUESS]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 409, in extractTimeSeries
+    v = self.derivedVariable(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 495, in derivedVariable
+    Vs[arg] = self.extractTimeSeries(
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 433, in extractTimeSeries
+    raise il.VarNotInModel()
+ILAMB.ilamblib.VarNotInModel: VarNotInModel
+
+[INFO][0][AnalysisMeanStateSites][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/ABCflux][LPJwsl] Success
+[INFO][0][AnalysisMeanStateSites][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/ABCflux][LPX-Bern] Success
+[INFO][0][AnalysisMeanStateSites][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/ABCflux][OCN] Success
+[INFO][0][AnalysisMeanStateSites][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/ABCflux][ORCHIDEE] Success
+[INFO][0][AnalysisMeanStateSites][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/ABCflux][ORCHIDEE-CNP] Success
+[INFO][0][AnalysisMeanStateSites][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/ABCflux][ORCHIDEEv3] Success
+[INFO][0][AnalysisMeanStateSites][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/ABCflux][SDGVM] Success
+[INFO][0][AnalysisMeanStateSites][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/ABCflux][TRENDY_Mean] Success
+[INFO][0][AnalysisMeanStateSites][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/ABCflux][VISIT] Success
+[INFO][0][AnalysisMeanStateSites][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/ABCflux][YIBs] Success
+[INFO][0][MakeComparable][EcosystemRespiration/CARVE][CABLE-POP] Spatial data was clipped from the comparison:  before: [ 36 176 360] after: [36 19 46]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/CARVE][CABLE-POP] Success
+[INFO][0][MakeComparable][EcosystemRespiration/CARVE][CLASSIC] Spatial data was clipped from the comparison:  before: [ 36  64 128] after: [36  8 17]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/CARVE][CLASSIC] Success
+[INFO][0][MakeComparable][EcosystemRespiration/CARVE][CLM5] Spatial data was clipped from the comparison:  before: [ 36 192 288] after: [36 20 37]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/CARVE][CLM5] Success
+[INFO][0][MakeComparable][EcosystemRespiration/CARVE][DLEM] Spatial data was clipped from the comparison:  before: [ 36 360 720] after: [36 37 92]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/CARVE][DLEM] Success
+[INFO][0][MakeComparable][EcosystemRespiration/CARVE][IBIS] Spatial data was clipped from the comparison:  before: [ 36 180 360] after: [36 19 46]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/CARVE][IBIS] Success
+[INFO][0][MakeComparable][EcosystemRespiration/CARVE][ISAM] Spatial data was clipped from the comparison:  before: [ 36 360 720] after: [36 37 92]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/CARVE][ISAM] Success
+[INFO][0][MakeComparable][EcosystemRespiration/CARVE][ISBA-CTRIP] Spatial data was clipped from the comparison:  before: [ 36 176 360] after: [36 19 46]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/CARVE][ISBA-CTRIP] Success
+[INFO][0][MakeComparable][EcosystemRespiration/CARVE][JSBACH] Spatial data was clipped from the comparison:  before: [ 36  96 192] after: [36 11 25]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/CARVE][JSBACH] Success
+[DEBUG][0][extractTimeSeries][JULES] Could not find [ra] in the model results
+[DEBUG][0][WorkConfront][EcosystemRespiration/CARVE][JULES]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 409, in extractTimeSeries
+    v = self.derivedVariable(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 495, in derivedVariable
+    Vs[arg] = self.extractTimeSeries(
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 433, in extractTimeSeries
+    raise il.VarNotInModel()
+ILAMB.ilamblib.VarNotInModel: VarNotInModel
+
+[DEBUG][0][extractTimeSeries][LPJ-GUESS] Could not find [rh] in the model results
+[DEBUG][0][WorkConfront][EcosystemRespiration/CARVE][LPJ-GUESS]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 409, in extractTimeSeries
+    v = self.derivedVariable(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 495, in derivedVariable
+    Vs[arg] = self.extractTimeSeries(
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 433, in extractTimeSeries
+    raise il.VarNotInModel()
+ILAMB.ilamblib.VarNotInModel: VarNotInModel
+
+[INFO][0][MakeComparable][EcosystemRespiration/CARVE][LPJwsl] Spatial data was clipped from the comparison:  before: [ 36 360 720] after: [36 37 92]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/CARVE][LPJwsl] Success
+[INFO][0][MakeComparable][EcosystemRespiration/CARVE][LPX-Bern] Spatial data was clipped from the comparison:  before: [ 36 360 720] after: [36 37 92]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/CARVE][LPX-Bern] Success
+[INFO][0][MakeComparable][EcosystemRespiration/CARVE][OCN] Spatial data was clipped from the comparison:  before: [ 36 180 360] after: [36 19 46]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/CARVE][OCN] Success
+[INFO][0][MakeComparable][EcosystemRespiration/CARVE][ORCHIDEE] Spatial data was clipped from the comparison:  before: [ 36 360 720] after: [36 37 92]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/CARVE][ORCHIDEE] Success
+[INFO][0][MakeComparable][EcosystemRespiration/CARVE][ORCHIDEE-CNP] Spatial data was clipped from the comparison:  before: [ 36  90 180] after: [36 10 23]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/CARVE][ORCHIDEE-CNP] Success
+[INFO][0][MakeComparable][EcosystemRespiration/CARVE][ORCHIDEEv3] Spatial data was clipped from the comparison:  before: [ 36 360 720] after: [36 37 92]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/CARVE][ORCHIDEEv3] Success
+[INFO][0][MakeComparable][EcosystemRespiration/CARVE][SDGVM] Spatial data was clipped from the comparison:  before: [ 36 180 360] after: [36 19 46]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/CARVE][SDGVM] Success
+[INFO][0][MakeComparable][EcosystemRespiration/CARVE][TRENDY_Mean] Spatial data was clipped from the comparison:  before: [ 36 180 360] after: [36 19 46]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/CARVE][TRENDY_Mean] Success
+[INFO][0][MakeComparable][EcosystemRespiration/CARVE][VISIT] Spatial data was clipped from the comparison:  before: [ 36 360 720] after: [36 37 92]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/CARVE][VISIT] Success
+[INFO][0][MakeComparable][EcosystemRespiration/CARVE][YIBs] Spatial data was clipped from the comparison:  before: [ 36 181 360] after: [36 19 46]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][reco] RMSE scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/CARVE][YIBs] Success
+[INFO][0][MakeComparable][EcosystemRespiration/Virkkala][CABLE-POP] Spatial data was clipped from the comparison:  before: [312 176 360] after: [312  43 120]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/Virkkala][CABLE-POP] Success
+[INFO][0][MakeComparable][EcosystemRespiration/Virkkala][CLASSIC] Spatial data was clipped from the comparison:  before: [312  64 128] after: [312  16  43]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/Virkkala][CLASSIC] Success
+[INFO][0][MakeComparable][EcosystemRespiration/Virkkala][CLM5] Spatial data was clipped from the comparison:  before: [312 192 288] after: [312  45  96]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/Virkkala][CLM5] Success
+[INFO][0][MakeComparable][EcosystemRespiration/Virkkala][DLEM] Spatial data was clipped from the comparison:  before: [312 360 720] after: [312  84 239]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/Virkkala][DLEM] Success
+[INFO][0][MakeComparable][EcosystemRespiration/Virkkala][IBIS] Spatial data was clipped from the comparison:  before: [312 180 360] after: [312  43 120]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/Virkkala][IBIS] Success
+[INFO][0][MakeComparable][EcosystemRespiration/Virkkala][ISAM] Spatial data was clipped from the comparison:  before: [312 360 720] after: [312  84 239]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/Virkkala][ISAM] Success
+[INFO][0][MakeComparable][EcosystemRespiration/Virkkala][ISBA-CTRIP] Spatial data was clipped from the comparison:  before: [312 176 360] after: [312  43 120]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/Virkkala][ISBA-CTRIP] Success
+[INFO][0][MakeComparable][EcosystemRespiration/Virkkala][JSBACH] Spatial data was clipped from the comparison:  before: [312  96 192] after: [312  23  64]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/Virkkala][JSBACH] Success
+[DEBUG][0][extractTimeSeries][JULES] Could not find [ra] in the model results
+[DEBUG][0][WorkConfront][EcosystemRespiration/Virkkala][JULES]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 409, in extractTimeSeries
+    v = self.derivedVariable(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 495, in derivedVariable
+    Vs[arg] = self.extractTimeSeries(
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 433, in extractTimeSeries
+    raise il.VarNotInModel()
+ILAMB.ilamblib.VarNotInModel: VarNotInModel
+
+[DEBUG][0][extractTimeSeries][LPJ-GUESS] Could not find [rh] in the model results
+[DEBUG][0][WorkConfront][EcosystemRespiration/Virkkala][LPJ-GUESS]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 409, in extractTimeSeries
+    v = self.derivedVariable(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 495, in derivedVariable
+    Vs[arg] = self.extractTimeSeries(
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 433, in extractTimeSeries
+    raise il.VarNotInModel()
+ILAMB.ilamblib.VarNotInModel: VarNotInModel
+
+[INFO][0][MakeComparable][EcosystemRespiration/Virkkala][LPJwsl] Spatial data was clipped from the comparison:  before: [312 360 720] after: [312  84 239]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/Virkkala][LPJwsl] Success
+[INFO][0][MakeComparable][EcosystemRespiration/Virkkala][LPX-Bern] Spatial data was clipped from the comparison:  before: [312 360 720] after: [312  84 239]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/Virkkala][LPX-Bern] Success
+[INFO][0][MakeComparable][EcosystemRespiration/Virkkala][OCN] Spatial data was clipped from the comparison:  before: [312 180 360] after: [312  43 120]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/Virkkala][OCN] Success
+[INFO][0][MakeComparable][EcosystemRespiration/Virkkala][ORCHIDEE] Spatial data was clipped from the comparison:  before: [312 360 720] after: [312  84 239]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/Virkkala][ORCHIDEE] Success
+[INFO][0][MakeComparable][EcosystemRespiration/Virkkala][ORCHIDEE-CNP] Spatial data was clipped from the comparison:  before: [312  90 180] after: [312  22  61]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/Virkkala][ORCHIDEE-CNP] Success
+[INFO][0][MakeComparable][EcosystemRespiration/Virkkala][ORCHIDEEv3] Spatial data was clipped from the comparison:  before: [312 360 720] after: [312  84 239]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/Virkkala][ORCHIDEEv3] Success
+[INFO][0][MakeComparable][EcosystemRespiration/Virkkala][SDGVM] Spatial data was clipped from the comparison:  before: [312 180 360] after: [312  43 120]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/Virkkala][SDGVM] Success
+[INFO][0][MakeComparable][EcosystemRespiration/Virkkala][TRENDY_Mean] Spatial data was clipped from the comparison:  before: [311 180 360] after: [311  43 120]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/Virkkala][TRENDY_Mean] Success
+[INFO][0][MakeComparable][EcosystemRespiration/Virkkala][VISIT] Spatial data was clipped from the comparison:  before: [312 360 720] after: [312  84 239]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/Virkkala][VISIT] Success
+[INFO][0][MakeComparable][EcosystemRespiration/Virkkala][YIBs] Spatial data was clipped from the comparison:  before: [312 181 360] after: [312  42 120]
+[INFO][0][AnalysisMeanStateSpace][reco] Bias scored using Collier2018
+[INFO][0][confront][EcosystemRespiration/Virkkala][YIBs] Success
+[INFO][0][AnalysisMeanStateSites][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/ABCflux][CABLE-POP] Success
+[INFO][0][AnalysisMeanStateSites][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/ABCflux][CLASSIC] Success
+[INFO][0][AnalysisMeanStateSites][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/ABCflux][CLM5] Success
+[INFO][0][AnalysisMeanStateSites][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/ABCflux][DLEM] Success
+[INFO][0][AnalysisMeanStateSites][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/ABCflux][IBIS] Success
+[INFO][0][AnalysisMeanStateSites][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/ABCflux][ISAM] Success
+[INFO][0][AnalysisMeanStateSites][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/ABCflux][ISBA-CTRIP] Success
+[INFO][0][AnalysisMeanStateSites][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/ABCflux][JSBACH] Success
+[INFO][0][AnalysisMeanStateSites][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/ABCflux][JULES] Success
+[INFO][0][AnalysisMeanStateSites][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/ABCflux][LPJ-GUESS] Success
+[INFO][0][AnalysisMeanStateSites][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/ABCflux][LPJwsl] Success
+[INFO][0][AnalysisMeanStateSites][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/ABCflux][LPX-Bern] Success
+[INFO][0][AnalysisMeanStateSites][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/ABCflux][OCN] Success
+[INFO][0][AnalysisMeanStateSites][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/ABCflux][ORCHIDEE] Success
+[INFO][0][AnalysisMeanStateSites][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/ABCflux][ORCHIDEE-CNP] Success
+[INFO][0][AnalysisMeanStateSites][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/ABCflux][ORCHIDEEv3] Success
+[INFO][0][AnalysisMeanStateSites][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/ABCflux][SDGVM] Success
+[DEBUG][0][WorkConfront][GrossPrimaryProduction/ABCflux][TRENDY_Mean]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 359, in extractTimeSeries
+    var = Variable(
+          ^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Variable.py", line 140, in __init__
+    out = il.FromNetCDF4(
+          ^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ilamblib.py", line 941, in FromNetCDF4
+    t, t_bnd, cbounds, begin, end, calendar = GetTime(
+                                              ^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ilamblib.py", line 359, in GetTime
+    raise ValueError(msg)
+ValueError: Time intervals defined in /Users/jmp838/Desktop/TRENDY/ILAMB_run/MODELS/TRENDY_Mean/gpp/gpp_annual.nc:time_bnds are not continuous
+
+[INFO][0][AnalysisMeanStateSites][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/ABCflux][VISIT] Success
+[INFO][0][AnalysisMeanStateSites][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/ABCflux][YIBs] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/CARVE][CABLE-POP] Spatial data was clipped from the comparison:  before: [ 36 176 360] after: [36 19 46]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/CARVE][CABLE-POP] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/CARVE][CLASSIC] Spatial data was clipped from the comparison:  before: [ 36  64 128] after: [36  8 17]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/CARVE][CLASSIC] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/CARVE][CLM5] Spatial data was clipped from the comparison:  before: [ 36 192 288] after: [36 20 37]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/CARVE][CLM5] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/CARVE][DLEM] Spatial data was clipped from the comparison:  before: [ 36 360 720] after: [36 37 92]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/CARVE][DLEM] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/CARVE][IBIS] Spatial data was clipped from the comparison:  before: [ 36 180 360] after: [36 19 46]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/CARVE][IBIS] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/CARVE][ISAM] Spatial data was clipped from the comparison:  before: [ 36 360 720] after: [36 37 92]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/CARVE][ISAM] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/CARVE][ISBA-CTRIP] Spatial data was clipped from the comparison:  before: [ 36 176 360] after: [36 19 46]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/CARVE][ISBA-CTRIP] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/CARVE][JSBACH] Spatial data was clipped from the comparison:  before: [ 36  96 192] after: [36 11 25]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/CARVE][JSBACH] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/CARVE][JULES] Spatial data was clipped from the comparison:  before: [ 36 144 192] after: [36 16 25]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/CARVE][JULES] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/CARVE][LPJ-GUESS] Spatial data was clipped from the comparison:  before: [ 36 360 720] after: [36 37 92]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/CARVE][LPJ-GUESS] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/CARVE][LPJwsl] Spatial data was clipped from the comparison:  before: [ 36 360 720] after: [36 37 92]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/CARVE][LPJwsl] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/CARVE][LPX-Bern] Spatial data was clipped from the comparison:  before: [ 36 360 720] after: [36 37 92]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/CARVE][LPX-Bern] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/CARVE][OCN] Spatial data was clipped from the comparison:  before: [ 36 180 360] after: [36 19 46]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/CARVE][OCN] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/CARVE][ORCHIDEE] Spatial data was clipped from the comparison:  before: [ 36 360 720] after: [36 37 92]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/CARVE][ORCHIDEE] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/CARVE][ORCHIDEE-CNP] Spatial data was clipped from the comparison:  before: [ 36  90 180] after: [36 10 23]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/CARVE][ORCHIDEE-CNP] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/CARVE][ORCHIDEEv3] Spatial data was clipped from the comparison:  before: [ 36 360 720] after: [36 37 92]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/CARVE][ORCHIDEEv3] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/CARVE][SDGVM] Spatial data was clipped from the comparison:  before: [ 36 180 360] after: [36 19 46]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/CARVE][SDGVM] Success
+[DEBUG][0][WorkConfront][GrossPrimaryProduction/CARVE][TRENDY_Mean]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 359, in extractTimeSeries
+    var = Variable(
+          ^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Variable.py", line 140, in __init__
+    out = il.FromNetCDF4(
+          ^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ilamblib.py", line 941, in FromNetCDF4
+    t, t_bnd, cbounds, begin, end, calendar = GetTime(
+                                              ^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ilamblib.py", line 359, in GetTime
+    raise ValueError(msg)
+ValueError: Time intervals defined in /Users/jmp838/Desktop/TRENDY/ILAMB_run/MODELS/TRENDY_Mean/gpp/gpp_annual.nc:time_bnds are not continuous
+
+[INFO][0][MakeComparable][GrossPrimaryProduction/CARVE][VISIT] Spatial data was clipped from the comparison:  before: [ 36 360 720] after: [36 37 92]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/CARVE][VISIT] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/CARVE][YIBs] Spatial data was clipped from the comparison:  before: [ 36 181 360] after: [36 19 46]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][gpp] RMSE scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/CARVE][YIBs] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/Virkkala][CABLE-POP] Spatial data was clipped from the comparison:  before: [312 176 360] after: [312  43 120]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/Virkkala][CABLE-POP] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/Virkkala][CLASSIC] Spatial data was clipped from the comparison:  before: [312  64 128] after: [312  16  43]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/Virkkala][CLASSIC] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/Virkkala][CLM5] Spatial data was clipped from the comparison:  before: [312 192 288] after: [312  45  96]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/Virkkala][CLM5] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/Virkkala][DLEM] Spatial data was clipped from the comparison:  before: [312 360 720] after: [312  84 239]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/Virkkala][DLEM] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/Virkkala][IBIS] Spatial data was clipped from the comparison:  before: [312 180 360] after: [312  43 120]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/Virkkala][IBIS] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/Virkkala][ISAM] Spatial data was clipped from the comparison:  before: [312 360 720] after: [312  84 239]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/Virkkala][ISAM] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/Virkkala][ISBA-CTRIP] Spatial data was clipped from the comparison:  before: [312 176 360] after: [312  43 120]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/Virkkala][ISBA-CTRIP] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/Virkkala][JSBACH] Spatial data was clipped from the comparison:  before: [312  96 192] after: [312  23  64]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/Virkkala][JSBACH] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/Virkkala][JULES] Spatial data was clipped from the comparison:  before: [312 144 192] after: [312  34  64]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/Virkkala][JULES] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/Virkkala][LPJ-GUESS] Spatial data was clipped from the comparison:  before: [312 360 720] after: [312  84 239]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/Virkkala][LPJ-GUESS] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/Virkkala][LPJwsl] Spatial data was clipped from the comparison:  before: [312 360 720] after: [312  84 239]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/Virkkala][LPJwsl] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/Virkkala][LPX-Bern] Spatial data was clipped from the comparison:  before: [312 360 720] after: [312  84 239]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/Virkkala][LPX-Bern] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/Virkkala][OCN] Spatial data was clipped from the comparison:  before: [312 180 360] after: [312  43 120]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/Virkkala][OCN] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/Virkkala][ORCHIDEE] Spatial data was clipped from the comparison:  before: [312 360 720] after: [312  84 239]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/Virkkala][ORCHIDEE] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/Virkkala][ORCHIDEE-CNP] Spatial data was clipped from the comparison:  before: [312  90 180] after: [312  22  61]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/Virkkala][ORCHIDEE-CNP] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/Virkkala][ORCHIDEEv3] Spatial data was clipped from the comparison:  before: [312 360 720] after: [312  84 239]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/Virkkala][ORCHIDEEv3] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/Virkkala][SDGVM] Spatial data was clipped from the comparison:  before: [312 180 360] after: [312  43 120]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/Virkkala][SDGVM] Success
+[DEBUG][0][WorkConfront][GrossPrimaryProduction/Virkkala][TRENDY_Mean]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 359, in extractTimeSeries
+    var = Variable(
+          ^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Variable.py", line 140, in __init__
+    out = il.FromNetCDF4(
+          ^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ilamblib.py", line 941, in FromNetCDF4
+    t, t_bnd, cbounds, begin, end, calendar = GetTime(
+                                              ^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ilamblib.py", line 359, in GetTime
+    raise ValueError(msg)
+ValueError: Time intervals defined in /Users/jmp838/Desktop/TRENDY/ILAMB_run/MODELS/TRENDY_Mean/gpp/gpp_annual.nc:time_bnds are not continuous
+
+[INFO][0][MakeComparable][GrossPrimaryProduction/Virkkala][VISIT] Spatial data was clipped from the comparison:  before: [312 360 720] after: [312  84 239]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/Virkkala][VISIT] Success
+[INFO][0][MakeComparable][GrossPrimaryProduction/Virkkala][YIBs] Spatial data was clipped from the comparison:  before: [312 181 360] after: [312  42 120]
+[INFO][0][AnalysisMeanStateSpace][gpp] Bias scored using Collier2018
+[INFO][0][confront][GrossPrimaryProduction/Virkkala][YIBs] Success
+[INFO][0][AnalysisMeanStateSites][nee] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][nee] RMSE scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/ABCflux][CABLE-POP] Success
+[INFO][0][AnalysisMeanStateSites][nee] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][nee] RMSE scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/ABCflux][CLASSIC] Success
+[INFO][0][AnalysisMeanStateSites][nee] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][nee] RMSE scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/ABCflux][CLM5] Success
+[INFO][0][AnalysisMeanStateSites][nee] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][nee] RMSE scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/ABCflux][DLEM] Success
+[INFO][0][AnalysisMeanStateSites][nee] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][nee] RMSE scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/ABCflux][IBIS] Success
+[INFO][0][AnalysisMeanStateSites][nee] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][nee] RMSE scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/ABCflux][ISAM] Success
+[INFO][0][AnalysisMeanStateSites][nee] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][nee] RMSE scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/ABCflux][ISBA-CTRIP] Success
+[INFO][0][AnalysisMeanStateSites][nee] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][nee] RMSE scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/ABCflux][JSBACH] Success
+[INFO][0][AnalysisMeanStateSites][nee] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][nee] RMSE scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/ABCflux][JULES] Success
+[DEBUG][0][extractTimeSeries][LPJ-GUESS] Could not find [rh] in the model results
+[DEBUG][0][WorkConfront][NetEcosystemExchange/ABCflux][LPJ-GUESS]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 409, in extractTimeSeries
+    v = self.derivedVariable(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 495, in derivedVariable
+    Vs[arg] = self.extractTimeSeries(
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 433, in extractTimeSeries
+    raise il.VarNotInModel()
+ILAMB.ilamblib.VarNotInModel: VarNotInModel
+
+[DEBUG][0][CombineVariables][MonotonicityError]
+   0: t = [50750.500, 62034.000]  * 
+   1: t = [50750.500, 62034.000] ** 
+[DEBUG][0][WorkConfront][NetEcosystemExchange/ABCflux][LPJwsl]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 409, in extractTimeSeries
+    v = self.derivedVariable(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 495, in derivedVariable
+    Vs[arg] = self.extractTimeSeries(
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 435, in extractTimeSeries
+    v = il.CombineVariables(V)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ilamblib.py", line 2654, in CombineVariables
+    raise MonotonicityError()
+ILAMB.ilamblib.MonotonicityError: MonotonicityError
+
+[INFO][0][AnalysisMeanStateSites][nee] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][nee] RMSE scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/ABCflux][LPX-Bern] Success
+[INFO][0][AnalysisMeanStateSites][nee] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][nee] RMSE scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/ABCflux][OCN] Success
+[INFO][0][AnalysisMeanStateSites][nee] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][nee] RMSE scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/ABCflux][ORCHIDEE] Success
+[INFO][0][AnalysisMeanStateSites][nee] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][nee] RMSE scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/ABCflux][ORCHIDEE-CNP] Success
+[INFO][0][AnalysisMeanStateSites][nee] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][nee] RMSE scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/ABCflux][ORCHIDEEv3] Success
+[INFO][0][AnalysisMeanStateSites][nee] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][nee] RMSE scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/ABCflux][SDGVM] Success
+[INFO][0][AnalysisMeanStateSites][nee] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][nee] RMSE scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/ABCflux][TRENDY_Mean] Success
+[DEBUG][0][extractTimeSeries][VISIT] Could not find [npp] in the model results
+[DEBUG][0][WorkConfront][NetEcosystemExchange/ABCflux][VISIT]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 409, in extractTimeSeries
+    v = self.derivedVariable(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 495, in derivedVariable
+    Vs[arg] = self.extractTimeSeries(
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 433, in extractTimeSeries
+    raise il.VarNotInModel()
+ILAMB.ilamblib.VarNotInModel: VarNotInModel
+
+[INFO][0][AnalysisMeanStateSites][nee] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][nee] RMSE scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/ABCflux][YIBs] Success
+[INFO][0][MakeComparable][NetEcosystemExchange/CARVE][CABLE-POP] Spatial data was clipped from the comparison:  before: [ 36 176 360] after: [36 19 46]
+[INFO][0][AnalysisMeanStateSpace][nee] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][nee] RMSE scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/CARVE][CABLE-POP] Success
+[INFO][0][MakeComparable][NetEcosystemExchange/CARVE][CLASSIC] Spatial data was clipped from the comparison:  before: [ 36  64 128] after: [36  8 17]
+[INFO][0][AnalysisMeanStateSpace][nee] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][nee] RMSE scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/CARVE][CLASSIC] Success
+[INFO][0][MakeComparable][NetEcosystemExchange/CARVE][CLM5] Spatial data was clipped from the comparison:  before: [ 36 192 288] after: [36 20 37]
+[INFO][0][AnalysisMeanStateSpace][nee] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][nee] RMSE scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/CARVE][CLM5] Success
+[INFO][0][MakeComparable][NetEcosystemExchange/CARVE][DLEM] Spatial data was clipped from the comparison:  before: [ 36 360 720] after: [36 37 92]
+[INFO][0][AnalysisMeanStateSpace][nee] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][nee] RMSE scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/CARVE][DLEM] Success
+[INFO][0][MakeComparable][NetEcosystemExchange/CARVE][IBIS] Spatial data was clipped from the comparison:  before: [ 36 180 360] after: [36 19 46]
+[INFO][0][AnalysisMeanStateSpace][nee] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][nee] RMSE scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/CARVE][IBIS] Success
+[INFO][0][MakeComparable][NetEcosystemExchange/CARVE][ISAM] Spatial data was clipped from the comparison:  before: [ 36 360 720] after: [36 37 92]
+[INFO][0][AnalysisMeanStateSpace][nee] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][nee] RMSE scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/CARVE][ISAM] Success
+[INFO][0][MakeComparable][NetEcosystemExchange/CARVE][ISBA-CTRIP] Spatial data was clipped from the comparison:  before: [ 36 176 360] after: [36 19 46]
+[INFO][0][AnalysisMeanStateSpace][nee] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][nee] RMSE scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/CARVE][ISBA-CTRIP] Success
+[INFO][0][MakeComparable][NetEcosystemExchange/CARVE][JSBACH] Spatial data was clipped from the comparison:  before: [ 36  96 192] after: [36 11 25]
+[INFO][0][AnalysisMeanStateSpace][nee] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][nee] RMSE scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/CARVE][JSBACH] Success
+[INFO][0][MakeComparable][NetEcosystemExchange/CARVE][JULES] Spatial data was clipped from the comparison:  before: [ 36 144 192] after: [36 16 25]
+[INFO][0][AnalysisMeanStateSpace][nee] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][nee] RMSE scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/CARVE][JULES] Success
+[DEBUG][0][extractTimeSeries][LPJ-GUESS] Could not find [rh] in the model results
+[DEBUG][0][WorkConfront][NetEcosystemExchange/CARVE][LPJ-GUESS]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 409, in extractTimeSeries
+    v = self.derivedVariable(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 495, in derivedVariable
+    Vs[arg] = self.extractTimeSeries(
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 433, in extractTimeSeries
+    raise il.VarNotInModel()
+ILAMB.ilamblib.VarNotInModel: VarNotInModel
+
+[DEBUG][0][CombineVariables][MonotonicityError]
+   0: t = [59145.500, 60209.500]  * /Users/jmp838/Desktop/TRENDY/ILAMB_run/MODELS/LPJwsl/npp/LPJ_S3_npp.nc
+   1: t = [59145.500, 60209.500] ** /Users/jmp838/Desktop/TRENDY/ILAMB_run/MODELS/LPJwsl/npp/LPJ_S3_npp_edited.nc
+[DEBUG][0][WorkConfront][NetEcosystemExchange/CARVE][LPJwsl]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 409, in extractTimeSeries
+    v = self.derivedVariable(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 495, in derivedVariable
+    Vs[arg] = self.extractTimeSeries(
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 435, in extractTimeSeries
+    v = il.CombineVariables(V)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ilamblib.py", line 2654, in CombineVariables
+    raise MonotonicityError()
+ILAMB.ilamblib.MonotonicityError: MonotonicityError
+
+[INFO][0][MakeComparable][NetEcosystemExchange/CARVE][LPX-Bern] Spatial data was clipped from the comparison:  before: [ 36 360 720] after: [36 37 92]
+[INFO][0][AnalysisMeanStateSpace][nee] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][nee] RMSE scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/CARVE][LPX-Bern] Success
+[INFO][0][MakeComparable][NetEcosystemExchange/CARVE][OCN] Spatial data was clipped from the comparison:  before: [ 36 180 360] after: [36 19 46]
+[INFO][0][AnalysisMeanStateSpace][nee] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][nee] RMSE scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/CARVE][OCN] Success
+[INFO][0][MakeComparable][NetEcosystemExchange/CARVE][ORCHIDEE] Spatial data was clipped from the comparison:  before: [ 36 360 720] after: [36 37 92]
+[INFO][0][AnalysisMeanStateSpace][nee] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][nee] RMSE scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/CARVE][ORCHIDEE] Success
+[INFO][0][MakeComparable][NetEcosystemExchange/CARVE][ORCHIDEE-CNP] Spatial data was clipped from the comparison:  before: [ 36  90 180] after: [36 10 23]
+[INFO][0][AnalysisMeanStateSpace][nee] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][nee] RMSE scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/CARVE][ORCHIDEE-CNP] Success
+[INFO][0][MakeComparable][NetEcosystemExchange/CARVE][ORCHIDEEv3] Spatial data was clipped from the comparison:  before: [ 36 360 720] after: [36 37 92]
+[INFO][0][AnalysisMeanStateSpace][nee] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][nee] RMSE scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/CARVE][ORCHIDEEv3] Success
+[INFO][0][MakeComparable][NetEcosystemExchange/CARVE][SDGVM] Spatial data was clipped from the comparison:  before: [ 36 180 360] after: [36 19 46]
+[INFO][0][AnalysisMeanStateSpace][nee] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][nee] RMSE scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/CARVE][SDGVM] Success
+[INFO][0][MakeComparable][NetEcosystemExchange/CARVE][TRENDY_Mean] Spatial data was clipped from the comparison:  before: [ 36 180 360] after: [36 19 46]
+[INFO][0][AnalysisMeanStateSpace][nee] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][nee] RMSE scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/CARVE][TRENDY_Mean] Success
+[DEBUG][0][extractTimeSeries][VISIT] Could not find [npp] in the model results
+[DEBUG][0][WorkConfront][NetEcosystemExchange/CARVE][VISIT]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 409, in extractTimeSeries
+    v = self.derivedVariable(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 495, in derivedVariable
+    Vs[arg] = self.extractTimeSeries(
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 433, in extractTimeSeries
+    raise il.VarNotInModel()
+ILAMB.ilamblib.VarNotInModel: VarNotInModel
+
+[INFO][0][MakeComparable][NetEcosystemExchange/CARVE][YIBs] Spatial data was clipped from the comparison:  before: [ 36 181 360] after: [36 19 46]
+[INFO][0][AnalysisMeanStateSpace][nee] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][nee] RMSE scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/CARVE][YIBs] Success
+[INFO][0][MakeComparable][NetEcosystemExchange/Virkkala][CABLE-POP] Spatial data was clipped from the comparison:  before: [312 176 360] after: [312  65 360]
+[INFO][0][AnalysisMeanStateSpace][nee] Bias scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/Virkkala][CABLE-POP] Success
+[INFO][0][MakeComparable][NetEcosystemExchange/Virkkala][CLASSIC] Spatial data was clipped from the comparison:  before: [312  64 128] after: [312  23 128]
+[INFO][0][AnalysisMeanStateSpace][nee] Bias scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/Virkkala][CLASSIC] Success
+[INFO][0][MakeComparable][NetEcosystemExchange/Virkkala][CLM5] Spatial data was clipped from the comparison:  before: [312 192 288] after: [312  70 288]
+[INFO][0][AnalysisMeanStateSpace][nee] Bias scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/Virkkala][CLM5] Success
+[INFO][0][MakeComparable][NetEcosystemExchange/Virkkala][DLEM] Spatial data was clipped from the comparison:  before: [312 360 720] after: [312 130 720]
+[INFO][0][AnalysisMeanStateSpace][nee] Bias scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/Virkkala][DLEM] Success
+[INFO][0][MakeComparable][NetEcosystemExchange/Virkkala][IBIS] Spatial data was clipped from the comparison:  before: [312 180 360] after: [312  65 360]
+[INFO][0][AnalysisMeanStateSpace][nee] Bias scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/Virkkala][IBIS] Success
+[INFO][0][MakeComparable][NetEcosystemExchange/Virkkala][ISAM] Spatial data was clipped from the comparison:  before: [312 360 720] after: [312 130 720]
+[INFO][0][AnalysisMeanStateSpace][nee] Bias scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/Virkkala][ISAM] Success
+[INFO][0][MakeComparable][NetEcosystemExchange/Virkkala][ISBA-CTRIP] Spatial data was clipped from the comparison:  before: [312 176 360] after: [312  65 360]
+[INFO][0][AnalysisMeanStateSpace][nee] Bias scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/Virkkala][ISBA-CTRIP] Success
+[INFO][0][MakeComparable][NetEcosystemExchange/Virkkala][JSBACH] Spatial data was clipped from the comparison:  before: [312  96 192] after: [312  35 192]
+[INFO][0][AnalysisMeanStateSpace][nee] Bias scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/Virkkala][JSBACH] Success
+[INFO][0][MakeComparable][NetEcosystemExchange/Virkkala][JULES] Spatial data was clipped from the comparison:  before: [312 144 192] after: [312  52 192]
+[INFO][0][AnalysisMeanStateSpace][nee] Bias scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/Virkkala][JULES] Success
+[DEBUG][0][extractTimeSeries][LPJ-GUESS] Could not find [rh] in the model results
+[DEBUG][0][WorkConfront][NetEcosystemExchange/Virkkala][LPJ-GUESS]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 409, in extractTimeSeries
+    v = self.derivedVariable(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 495, in derivedVariable
+    Vs[arg] = self.extractTimeSeries(
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 433, in extractTimeSeries
+    raise il.VarNotInModel()
+ILAMB.ilamblib.VarNotInModel: VarNotInModel
+
+[DEBUG][0][CombineVariables][MonotonicityError]
+   0: t = [51115.500, 60574.500]  * /Users/jmp838/Desktop/TRENDY/ILAMB_run/MODELS/LPJwsl/npp/LPJ_S3_npp.nc
+   1: t = [51115.500, 60574.500] ** /Users/jmp838/Desktop/TRENDY/ILAMB_run/MODELS/LPJwsl/npp/LPJ_S3_npp_edited.nc
+[DEBUG][0][WorkConfront][NetEcosystemExchange/Virkkala][LPJwsl]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 409, in extractTimeSeries
+    v = self.derivedVariable(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 495, in derivedVariable
+    Vs[arg] = self.extractTimeSeries(
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 435, in extractTimeSeries
+    v = il.CombineVariables(V)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ilamblib.py", line 2654, in CombineVariables
+    raise MonotonicityError()
+ILAMB.ilamblib.MonotonicityError: MonotonicityError
+
+[INFO][0][MakeComparable][NetEcosystemExchange/Virkkala][LPX-Bern] Spatial data was clipped from the comparison:  before: [312 360 720] after: [312 130 720]
+[INFO][0][AnalysisMeanStateSpace][nee] Bias scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/Virkkala][LPX-Bern] Success
+[INFO][0][MakeComparable][NetEcosystemExchange/Virkkala][OCN] Spatial data was clipped from the comparison:  before: [312 180 360] after: [312  65 360]
+[INFO][0][AnalysisMeanStateSpace][nee] Bias scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/Virkkala][OCN] Success
+[INFO][0][MakeComparable][NetEcosystemExchange/Virkkala][ORCHIDEE] Spatial data was clipped from the comparison:  before: [312 360 720] after: [312 130 720]
+[INFO][0][AnalysisMeanStateSpace][nee] Bias scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/Virkkala][ORCHIDEE] Success
+[INFO][0][MakeComparable][NetEcosystemExchange/Virkkala][ORCHIDEE-CNP] Spatial data was clipped from the comparison:  before: [312  90 180] after: [312  33 180]
+[INFO][0][AnalysisMeanStateSpace][nee] Bias scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/Virkkala][ORCHIDEE-CNP] Success
+[INFO][0][MakeComparable][NetEcosystemExchange/Virkkala][ORCHIDEEv3] Spatial data was clipped from the comparison:  before: [312 360 720] after: [312 130 720]
+[INFO][0][AnalysisMeanStateSpace][nee] Bias scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/Virkkala][ORCHIDEEv3] Success
+[INFO][0][MakeComparable][NetEcosystemExchange/Virkkala][SDGVM] Spatial data was clipped from the comparison:  before: [312 180 360] after: [312  65 360]
+[INFO][0][AnalysisMeanStateSpace][nee] Bias scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/Virkkala][SDGVM] Success
+[INFO][0][MakeComparable][NetEcosystemExchange/Virkkala][TRENDY_Mean] Spatial data was clipped from the comparison:  before: [311 180 360] after: [311  65 360]
+[INFO][0][AnalysisMeanStateSpace][nee] Bias scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/Virkkala][TRENDY_Mean] Success
+[DEBUG][0][extractTimeSeries][VISIT] Could not find [npp] in the model results
+[DEBUG][0][WorkConfront][NetEcosystemExchange/Virkkala][VISIT]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 409, in extractTimeSeries
+    v = self.derivedVariable(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 495, in derivedVariable
+    Vs[arg] = self.extractTimeSeries(
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 433, in extractTimeSeries
+    raise il.VarNotInModel()
+ILAMB.ilamblib.VarNotInModel: VarNotInModel
+
+[INFO][0][MakeComparable][NetEcosystemExchange/Virkkala][YIBs] Spatial data was clipped from the comparison:  before: [312 181 360] after: [312  66 360]
+[INFO][0][AnalysisMeanStateSpace][nee] Bias scored using Collier2018
+[INFO][0][confront][NetEcosystemExchange/Virkkala][YIBs] Success
+[INFO][0][AnalysisMeanStateSpace][cSoil] Bias scored using Collier2018
+[INFO][0][confront][SoilCarbon/NCSCDv2][CABLE-POP] Success
+[INFO][0][AnalysisMeanStateSpace][cSoil] Bias scored using Collier2018
+[INFO][0][confront][SoilCarbon/NCSCDv2][CLASSIC] Success
+[INFO][0][AnalysisMeanStateSpace][cSoil] Bias scored using Collier2018
+[INFO][0][confront][SoilCarbon/NCSCDv2][CLM5] Success
+[INFO][0][AnalysisMeanStateSpace][cSoil] Bias scored using Collier2018
+[INFO][0][confront][SoilCarbon/NCSCDv2][DLEM] Success
+[INFO][0][AnalysisMeanStateSpace][cSoil] Bias scored using Collier2018
+[INFO][0][confront][SoilCarbon/NCSCDv2][IBIS] Success
+[INFO][0][AnalysisMeanStateSpace][cSoil] Bias scored using Collier2018
+[INFO][0][confront][SoilCarbon/NCSCDv2][ISAM] Success
+[INFO][0][AnalysisMeanStateSpace][cSoil] Bias scored using Collier2018
+[INFO][0][confront][SoilCarbon/NCSCDv2][ISBA-CTRIP] Success
+[INFO][0][AnalysisMeanStateSpace][cSoil] Bias scored using Collier2018
+[INFO][0][confront][SoilCarbon/NCSCDv2][JSBACH] Success
+[INFO][0][AnalysisMeanStateSpace][cSoil] Bias scored using Collier2018
+[INFO][0][confront][SoilCarbon/NCSCDv2][JULES] Success
+[INFO][0][AnalysisMeanStateSpace][cSoil] Bias scored using Collier2018
+[INFO][0][confront][SoilCarbon/NCSCDv2][LPJ-GUESS] Success
+[INFO][0][AnalysisMeanStateSpace][cSoil] Bias scored using Collier2018
+[INFO][0][confront][SoilCarbon/NCSCDv2][LPJwsl] Success
+[INFO][0][AnalysisMeanStateSpace][cSoil] Bias scored using Collier2018
+[INFO][0][confront][SoilCarbon/NCSCDv2][LPX-Bern] Success
+[INFO][0][AnalysisMeanStateSpace][cSoil] Bias scored using Collier2018
+[INFO][0][confront][SoilCarbon/NCSCDv2][OCN] Success
+[INFO][0][AnalysisMeanStateSpace][cSoil] Bias scored using Collier2018
+[INFO][0][confront][SoilCarbon/NCSCDv2][ORCHIDEE] Success
+[INFO][0][AnalysisMeanStateSpace][cSoil] Bias scored using Collier2018
+[INFO][0][confront][SoilCarbon/NCSCDv2][ORCHIDEE-CNP] Success
+[INFO][0][AnalysisMeanStateSpace][cSoil] Bias scored using Collier2018
+[INFO][0][confront][SoilCarbon/NCSCDv2][ORCHIDEEv3] Success
+[INFO][0][AnalysisMeanStateSpace][cSoil] Bias scored using Collier2018
+[INFO][0][confront][SoilCarbon/NCSCDv2][SDGVM] Success
+[DEBUG][0][extractTimeSeries][TRENDY_Mean] Could not find [cSoil] in the model results
+[DEBUG][0][WorkConfront][SoilCarbon/NCSCDv2][TRENDY_Mean]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 433, in extractTimeSeries
+    raise il.VarNotInModel()
+ILAMB.ilamblib.VarNotInModel: VarNotInModel
+
+[INFO][0][AnalysisMeanStateSpace][cSoil] Bias scored using Collier2018
+[INFO][0][confront][SoilCarbon/NCSCDv2][VISIT] Success
+[INFO][0][AnalysisMeanStateSpace][cSoil] Bias scored using Collier2018
+[INFO][0][confront][SoilCarbon/NCSCDv2][YIBs] Success
+[INFO][0][MakeComparable][Evapotranspiration/Vimal][CABLE-POP] Spatial data was clipped from the comparison:  before: [471 176 360] after: [471  43 120]
+[INFO][0][AnalysisMeanStateSpace][evapotrans] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][evapotrans] RMSE scored using Collier2018
+[INFO][0][confront][Evapotranspiration/Vimal][CABLE-POP] Success
+[INFO][0][MakeComparable][Evapotranspiration/Vimal][CLASSIC] Spatial data was clipped from the comparison:  before: [472  64 128] after: [472  16  43]
+[DEBUG][0][MakeComparable][Evapotranspiration/Vimal][CLASSIC] Datasets have differing numbers of time intervals: reference = 471, comparison = 472
+[DEBUG][0][WorkConfront][Evapotranspiration/Vimal][CLASSIC]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 378, in stageData
+    obs, mod = il.MakeComparable(
+               ^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ilamblib.py", line 2556, in MakeComparable
+    raise VarsNotComparable()
+ILAMB.ilamblib.VarsNotComparable: VarNotComparable
+
+[INFO][0][MakeComparable][Evapotranspiration/Vimal][CLM5] Spatial data was clipped from the comparison:  before: [471 192 288] after: [471  45  96]
+[INFO][0][AnalysisMeanStateSpace][evapotrans] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][evapotrans] RMSE scored using Collier2018
+[INFO][0][confront][Evapotranspiration/Vimal][CLM5] Success
+[INFO][0][MakeComparable][Evapotranspiration/Vimal][DLEM] Spatial data was clipped from the comparison:  before: [471 360 720] after: [471  84 239]
+[INFO][0][AnalysisMeanStateSpace][evapotrans] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][evapotrans] RMSE scored using Collier2018
+[INFO][0][confront][Evapotranspiration/Vimal][DLEM] Success
+[INFO][0][MakeComparable][Evapotranspiration/Vimal][IBIS] Spatial data was clipped from the comparison:  before: [471 180 360] after: [471  43 120]
+[INFO][0][AnalysisMeanStateSpace][evapotrans] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][evapotrans] RMSE scored using Collier2018
+[INFO][0][confront][Evapotranspiration/Vimal][IBIS] Success
+[INFO][0][MakeComparable][Evapotranspiration/Vimal][ISAM] Spatial data was clipped from the comparison:  before: [471 360 720] after: [471  84 239]
+[INFO][0][AnalysisMeanStateSpace][evapotrans] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][evapotrans] RMSE scored using Collier2018
+[INFO][0][confront][Evapotranspiration/Vimal][ISAM] Success
+[INFO][0][MakeComparable][Evapotranspiration/Vimal][ISBA-CTRIP] Spatial data was clipped from the comparison:  before: [471 176 360] after: [471  43 120]
+[INFO][0][AnalysisMeanStateSpace][evapotrans] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][evapotrans] RMSE scored using Collier2018
+[INFO][0][confront][Evapotranspiration/Vimal][ISBA-CTRIP] Success
+[INFO][0][MakeComparable][Evapotranspiration/Vimal][JSBACH] Spatial data was clipped from the comparison:  before: [472  96 192] after: [472  23  64]
+[DEBUG][0][MakeComparable][Evapotranspiration/Vimal][JSBACH] Datasets have differing numbers of time intervals: reference = 471, comparison = 472
+[DEBUG][0][WorkConfront][Evapotranspiration/Vimal][JSBACH]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 378, in stageData
+    obs, mod = il.MakeComparable(
+               ^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ilamblib.py", line 2556, in MakeComparable
+    raise VarsNotComparable()
+ILAMB.ilamblib.VarsNotComparable: VarNotComparable
+
+[INFO][0][MakeComparable][Evapotranspiration/Vimal][JULES] Spatial data was clipped from the comparison:  before: [471 144 192] after: [471  34  64]
+[INFO][0][AnalysisMeanStateSpace][evapotrans] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][evapotrans] RMSE scored using Collier2018
+[INFO][0][confront][Evapotranspiration/Vimal][JULES] Success
+[INFO][0][MakeComparable][Evapotranspiration/Vimal][LPJ-GUESS] Spatial data was clipped from the comparison:  before: [471 360 720] after: [471  84 239]
+[INFO][0][AnalysisMeanStateSpace][evapotrans] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][evapotrans] RMSE scored using Collier2018
+[INFO][0][confront][Evapotranspiration/Vimal][LPJ-GUESS] Success
+[DEBUG][0][extractTimeSeries][LPJwsl] Could not find [evapotrans,et] in the model results
+[DEBUG][0][WorkConfront][Evapotranspiration/Vimal][LPJwsl]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 433, in extractTimeSeries
+    raise il.VarNotInModel()
+ILAMB.ilamblib.VarNotInModel: VarNotInModel
+
+[INFO][0][MakeComparable][Evapotranspiration/Vimal][LPX-Bern] Spatial data was clipped from the comparison:  before: [471 360 720] after: [471  84 239]
+[INFO][0][AnalysisMeanStateSpace][evapotrans] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][evapotrans] RMSE scored using Collier2018
+[INFO][0][confront][Evapotranspiration/Vimal][LPX-Bern] Success
+[INFO][0][MakeComparable][Evapotranspiration/Vimal][OCN] Spatial data was clipped from the comparison:  before: [472 180 360] after: [472  43 120]
+[DEBUG][0][MakeComparable][Evapotranspiration/Vimal][OCN] Datasets have differing numbers of time intervals: reference = 471, comparison = 472
+[DEBUG][0][WorkConfront][Evapotranspiration/Vimal][OCN]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 378, in stageData
+    obs, mod = il.MakeComparable(
+               ^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ilamblib.py", line 2556, in MakeComparable
+    raise VarsNotComparable()
+ILAMB.ilamblib.VarsNotComparable: VarNotComparable
+
+[INFO][0][MakeComparable][Evapotranspiration/Vimal][ORCHIDEE] Spatial data was clipped from the comparison:  before: [471 360 720] after: [471  84 239]
+[INFO][0][AnalysisMeanStateSpace][evapotrans] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][evapotrans] RMSE scored using Collier2018
+[INFO][0][confront][Evapotranspiration/Vimal][ORCHIDEE] Success
+[INFO][0][MakeComparable][Evapotranspiration/Vimal][ORCHIDEE-CNP] Spatial data was clipped from the comparison:  before: [471  90 180] after: [471  22  61]
+[INFO][0][AnalysisMeanStateSpace][evapotrans] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][evapotrans] RMSE scored using Collier2018
+[INFO][0][confront][Evapotranspiration/Vimal][ORCHIDEE-CNP] Success
+[INFO][0][MakeComparable][Evapotranspiration/Vimal][ORCHIDEEv3] Spatial data was clipped from the comparison:  before: [471 360 720] after: [471  84 239]
+[INFO][0][AnalysisMeanStateSpace][evapotrans] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][evapotrans] RMSE scored using Collier2018
+[INFO][0][confront][Evapotranspiration/Vimal][ORCHIDEEv3] Success
+[INFO][0][MakeComparable][Evapotranspiration/Vimal][SDGVM] Spatial data was clipped from the comparison:  before: [471 180 360] after: [471  43 120]
+[INFO][0][AnalysisMeanStateSpace][evapotrans] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][evapotrans] RMSE scored using Collier2018
+[INFO][0][confront][Evapotranspiration/Vimal][SDGVM] Success
+[INFO][0][MakeComparable][Evapotranspiration/Vimal][TRENDY_Mean] Spatial data was clipped from the comparison:  before: [443 180 360] after: [443  43 120]
+[INFO][0][AnalysisMeanStateSpace][evapotrans] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][evapotrans] RMSE scored using Collier2018
+[INFO][0][confront][Evapotranspiration/Vimal][TRENDY_Mean] Success
+[INFO][0][MakeComparable][Evapotranspiration/Vimal][VISIT] Spatial data was clipped from the comparison:  before: [471 360 720] after: [471  84 239]
+[INFO][0][AnalysisMeanStateSpace][evapotrans] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][evapotrans] RMSE scored using Collier2018
+[INFO][0][confront][Evapotranspiration/Vimal][VISIT] Success
+[DEBUG][0][extractTimeSeries][YIBs] Could not find [evapotrans,et] in the model results
+[DEBUG][0][WorkConfront][Evapotranspiration/Vimal][YIBs]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 433, in extractTimeSeries
+    raise il.VarNotInModel()
+ILAMB.ilamblib.VarNotInModel: VarNotInModel
+
+[INFO][0][MakeComparable][SurfaceDownwellingShortwaveRadiation/Vimal][CABLE-POP] Spatial data was clipped from the comparison:  before: [471 176 360] after: [471  43 120]
+[INFO][0][AnalysisMeanStateSpace][rsds] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][rsds] RMSE scored using Collier2018
+[INFO][0][confront][SurfaceDownwellingShortwaveRadiation/Vimal][CABLE-POP] Success
+[INFO][0][MakeComparable][SurfaceDownwellingShortwaveRadiation/Vimal][CLASSIC] Spatial data was clipped from the comparison:  before: [472  64 128] after: [472  16  43]
+[DEBUG][0][MakeComparable][SurfaceDownwellingShortwaveRadiation/Vimal][CLASSIC] Datasets have differing numbers of time intervals: reference = 471, comparison = 472
+[DEBUG][0][WorkConfront][SurfaceDownwellingShortwaveRadiation/Vimal][CLASSIC]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 378, in stageData
+    obs, mod = il.MakeComparable(
+               ^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ilamblib.py", line 2556, in MakeComparable
+    raise VarsNotComparable()
+ILAMB.ilamblib.VarsNotComparable: VarNotComparable
+
+[INFO][0][MakeComparable][SurfaceDownwellingShortwaveRadiation/Vimal][CLM5] Spatial data was clipped from the comparison:  before: [471 192 288] after: [471  45  96]
+[INFO][0][AnalysisMeanStateSpace][rsds] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][rsds] RMSE scored using Collier2018
+[INFO][0][confront][SurfaceDownwellingShortwaveRadiation/Vimal][CLM5] Success
+[DEBUG][0][extractTimeSeries][DLEM] Could not find [rsds] in the model results
+[DEBUG][0][WorkConfront][SurfaceDownwellingShortwaveRadiation/Vimal][DLEM]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 433, in extractTimeSeries
+    raise il.VarNotInModel()
+ILAMB.ilamblib.VarNotInModel: VarNotInModel
+
+[INFO][0][MakeComparable][SurfaceDownwellingShortwaveRadiation/Vimal][IBIS] Spatial data was clipped from the comparison:  before: [471 180 360] after: [471  43 120]
+[INFO][0][AnalysisMeanStateSpace][rsds] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][rsds] RMSE scored using Collier2018
+[INFO][0][confront][SurfaceDownwellingShortwaveRadiation/Vimal][IBIS] Success
+[INFO][0][MakeComparable][SurfaceDownwellingShortwaveRadiation/Vimal][ISAM] Spatial data was clipped from the comparison:  before: [471 360 720] after: [471  84 239]
+[INFO][0][AnalysisMeanStateSpace][rsds] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][rsds] RMSE scored using Collier2018
+[INFO][0][confront][SurfaceDownwellingShortwaveRadiation/Vimal][ISAM] Success
+[INFO][0][MakeComparable][SurfaceDownwellingShortwaveRadiation/Vimal][ISBA-CTRIP] Spatial data was clipped from the comparison:  before: [471 176 360] after: [471  43 120]
+[INFO][0][AnalysisMeanStateSpace][rsds] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][rsds] RMSE scored using Collier2018
+[INFO][0][confront][SurfaceDownwellingShortwaveRadiation/Vimal][ISBA-CTRIP] Success
+[INFO][0][MakeComparable][SurfaceDownwellingShortwaveRadiation/Vimal][JSBACH] Spatial data was clipped from the comparison:  before: [472  96 192] after: [472  23  64]
+[DEBUG][0][MakeComparable][SurfaceDownwellingShortwaveRadiation/Vimal][JSBACH] Datasets have differing numbers of time intervals: reference = 471, comparison = 472
+[DEBUG][0][WorkConfront][SurfaceDownwellingShortwaveRadiation/Vimal][JSBACH]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 378, in stageData
+    obs, mod = il.MakeComparable(
+               ^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ilamblib.py", line 2556, in MakeComparable
+    raise VarsNotComparable()
+ILAMB.ilamblib.VarsNotComparable: VarNotComparable
+
+[INFO][0][MakeComparable][SurfaceDownwellingShortwaveRadiation/Vimal][JULES] Spatial data was clipped from the comparison:  before: [471 144 192] after: [471  34  64]
+[INFO][0][AnalysisMeanStateSpace][rsds] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][rsds] RMSE scored using Collier2018
+[INFO][0][confront][SurfaceDownwellingShortwaveRadiation/Vimal][JULES] Success
+[DEBUG][0][extractTimeSeries][LPJ-GUESS] Could not find [rsds] in the model results
+[DEBUG][0][WorkConfront][SurfaceDownwellingShortwaveRadiation/Vimal][LPJ-GUESS]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 433, in extractTimeSeries
+    raise il.VarNotInModel()
+ILAMB.ilamblib.VarNotInModel: VarNotInModel
+
+[DEBUG][0][extractTimeSeries][LPJwsl] Could not find [rsds] in the model results
+[DEBUG][0][WorkConfront][SurfaceDownwellingShortwaveRadiation/Vimal][LPJwsl]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 433, in extractTimeSeries
+    raise il.VarNotInModel()
+ILAMB.ilamblib.VarNotInModel: VarNotInModel
+
+[INFO][0][MakeComparable][SurfaceDownwellingShortwaveRadiation/Vimal][LPX-Bern] Spatial data was clipped from the comparison:  before: [471 360 720] after: [471  84 239]
+[INFO][0][AnalysisMeanStateSpace][rsds] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][rsds] RMSE scored using Collier2018
+[INFO][0][confront][SurfaceDownwellingShortwaveRadiation/Vimal][LPX-Bern] Success
+[INFO][0][MakeComparable][SurfaceDownwellingShortwaveRadiation/Vimal][OCN] Spatial data was clipped from the comparison:  before: [472 180 360] after: [472  43 120]
+[DEBUG][0][MakeComparable][SurfaceDownwellingShortwaveRadiation/Vimal][OCN] Datasets have differing numbers of time intervals: reference = 471, comparison = 472
+[DEBUG][0][WorkConfront][SurfaceDownwellingShortwaveRadiation/Vimal][OCN]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 378, in stageData
+    obs, mod = il.MakeComparable(
+               ^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ilamblib.py", line 2556, in MakeComparable
+    raise VarsNotComparable()
+ILAMB.ilamblib.VarsNotComparable: VarNotComparable
+
+[INFO][0][MakeComparable][SurfaceDownwellingShortwaveRadiation/Vimal][ORCHIDEE] Spatial data was clipped from the comparison:  before: [471 360 720] after: [471  84 239]
+[INFO][0][AnalysisMeanStateSpace][rsds] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][rsds] RMSE scored using Collier2018
+[INFO][0][confront][SurfaceDownwellingShortwaveRadiation/Vimal][ORCHIDEE] Success
+[INFO][0][MakeComparable][SurfaceDownwellingShortwaveRadiation/Vimal][ORCHIDEE-CNP] Spatial data was clipped from the comparison:  before: [471  90 180] after: [471  22  61]
+[INFO][0][AnalysisMeanStateSpace][rsds] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][rsds] RMSE scored using Collier2018
+[INFO][0][confront][SurfaceDownwellingShortwaveRadiation/Vimal][ORCHIDEE-CNP] Success
+[INFO][0][MakeComparable][SurfaceDownwellingShortwaveRadiation/Vimal][ORCHIDEEv3] Spatial data was clipped from the comparison:  before: [471 360 720] after: [471  84 239]
+[INFO][0][AnalysisMeanStateSpace][rsds] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][rsds] RMSE scored using Collier2018
+[INFO][0][confront][SurfaceDownwellingShortwaveRadiation/Vimal][ORCHIDEEv3] Success
+[INFO][0][MakeComparable][SurfaceDownwellingShortwaveRadiation/Vimal][SDGVM] Spatial data was clipped from the comparison:  before: [471 180 360] after: [471  43 120]
+[INFO][0][AnalysisMeanStateSpace][rsds] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][rsds] RMSE scored using Collier2018
+[INFO][0][confront][SurfaceDownwellingShortwaveRadiation/Vimal][SDGVM] Success
+[DEBUG][0][extractTimeSeries][TRENDY_Mean] Could not find [rsds] in the model results
+[DEBUG][0][WorkConfront][SurfaceDownwellingShortwaveRadiation/Vimal][TRENDY_Mean]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 433, in extractTimeSeries
+    raise il.VarNotInModel()
+ILAMB.ilamblib.VarNotInModel: VarNotInModel
+
+[INFO][0][MakeComparable][SurfaceDownwellingShortwaveRadiation/Vimal][VISIT] Spatial data was clipped from the comparison:  before: [471 360 720] after: [471  84 239]
+[INFO][0][AnalysisMeanStateSpace][rsds] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][rsds] RMSE scored using Collier2018
+[INFO][0][confront][SurfaceDownwellingShortwaveRadiation/Vimal][VISIT] Success
+[INFO][0][MakeComparable][SurfaceDownwellingShortwaveRadiation/Vimal][YIBs] Spatial data was clipped from the comparison:  before: [471 181 360] after: [471  42 120]
+[INFO][0][AnalysisMeanStateSpace][rsds] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][rsds] RMSE scored using Collier2018
+[INFO][0][confront][SurfaceDownwellingShortwaveRadiation/Vimal][YIBs] Success
+[INFO][0][AnalysisMeanStateSites][pr] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][pr] RMSE scored using Collier2018
+[INFO][0][confront][Precipitation/ABCflux][CABLE-POP] Success
+[INFO][0][AnalysisMeanStateSites][pr] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][pr] RMSE scored using Collier2018
+[INFO][0][confront][Precipitation/ABCflux][CLASSIC] Success
+[INFO][0][AnalysisMeanStateSites][pr] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][pr] RMSE scored using Collier2018
+[INFO][0][confront][Precipitation/ABCflux][CLM5] Success
+[DEBUG][0][extractTimeSeries][DLEM] Could not find [pr] in the model results
+[DEBUG][0][WorkConfront][Precipitation/ABCflux][DLEM]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 433, in extractTimeSeries
+    raise il.VarNotInModel()
+ILAMB.ilamblib.VarNotInModel: VarNotInModel
+
+[INFO][0][AnalysisMeanStateSites][pr] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][pr] RMSE scored using Collier2018
+[INFO][0][confront][Precipitation/ABCflux][IBIS] Success
+[INFO][0][AnalysisMeanStateSites][pr] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][pr] RMSE scored using Collier2018
+[INFO][0][confront][Precipitation/ABCflux][ISAM] Success
+[INFO][0][AnalysisMeanStateSites][pr] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][pr] RMSE scored using Collier2018
+[INFO][0][confront][Precipitation/ABCflux][ISBA-CTRIP] Success
+[INFO][0][AnalysisMeanStateSites][pr] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][pr] RMSE scored using Collier2018
+[INFO][0][confront][Precipitation/ABCflux][JSBACH] Success
+[INFO][0][AnalysisMeanStateSites][pr] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][pr] RMSE scored using Collier2018
+[INFO][0][confront][Precipitation/ABCflux][JULES] Success
+[DEBUG][0][extractTimeSeries][LPJ-GUESS] Could not find [pr] in the model results
+[DEBUG][0][WorkConfront][Precipitation/ABCflux][LPJ-GUESS]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 433, in extractTimeSeries
+    raise il.VarNotInModel()
+ILAMB.ilamblib.VarNotInModel: VarNotInModel
+
+[DEBUG][0][extractTimeSeries][LPJwsl] Could not find [pr] in the model results
+[DEBUG][0][WorkConfront][Precipitation/ABCflux][LPJwsl]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 433, in extractTimeSeries
+    raise il.VarNotInModel()
+ILAMB.ilamblib.VarNotInModel: VarNotInModel
+
+[INFO][0][AnalysisMeanStateSites][pr] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][pr] RMSE scored using Collier2018
+[INFO][0][confront][Precipitation/ABCflux][LPX-Bern] Success
+[INFO][0][AnalysisMeanStateSites][pr] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][pr] RMSE scored using Collier2018
+[INFO][0][confront][Precipitation/ABCflux][OCN] Success
+[INFO][0][AnalysisMeanStateSites][pr] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][pr] RMSE scored using Collier2018
+[INFO][0][confront][Precipitation/ABCflux][ORCHIDEE] Success
+[INFO][0][AnalysisMeanStateSites][pr] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][pr] RMSE scored using Collier2018
+[INFO][0][confront][Precipitation/ABCflux][ORCHIDEE-CNP] Success
+[INFO][0][AnalysisMeanStateSites][pr] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][pr] RMSE scored using Collier2018
+[INFO][0][confront][Precipitation/ABCflux][ORCHIDEEv3] Success
+[INFO][0][AnalysisMeanStateSites][pr] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][pr] RMSE scored using Collier2018
+[INFO][0][confront][Precipitation/ABCflux][SDGVM] Success
+[DEBUG][0][WorkConfront][Precipitation/ABCflux][TRENDY_Mean]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 359, in extractTimeSeries
+    var = Variable(
+          ^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Variable.py", line 140, in __init__
+    out = il.FromNetCDF4(
+          ^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ilamblib.py", line 941, in FromNetCDF4
+    t, t_bnd, cbounds, begin, end, calendar = GetTime(
+                                              ^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ilamblib.py", line 359, in GetTime
+    raise ValueError(msg)
+ValueError: Time intervals defined in /Users/jmp838/Desktop/TRENDY/ILAMB_run/MODELS/TRENDY_Mean/pr/pr_annual.nc:time_bnds are not continuous
+
+[INFO][0][AnalysisMeanStateSites][pr] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][pr] RMSE scored using Collier2018
+[INFO][0][confront][Precipitation/ABCflux][VISIT] Success
+[DEBUG][0][extractTimeSeries][YIBs] Could not find [pr] in the model results
+[DEBUG][0][WorkConfront][Precipitation/ABCflux][YIBs]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 433, in extractTimeSeries
+    raise il.VarNotInModel()
+ILAMB.ilamblib.VarNotInModel: VarNotInModel
+
+[INFO][0][MakeComparable][Precipitation/Vimal][CABLE-POP] Spatial data was clipped from the comparison:  before: [471 176 360] after: [471  43 120]
+[INFO][0][AnalysisMeanStateSpace][pr] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][pr] RMSE scored using Collier2018
+[INFO][0][confront][Precipitation/Vimal][CABLE-POP] Success
+[INFO][0][MakeComparable][Precipitation/Vimal][CLASSIC] Spatial data was clipped from the comparison:  before: [472  64 128] after: [472  16  43]
+[DEBUG][0][MakeComparable][Precipitation/Vimal][CLASSIC] Datasets have differing numbers of time intervals: reference = 471, comparison = 472
+[DEBUG][0][WorkConfront][Precipitation/Vimal][CLASSIC]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 378, in stageData
+    obs, mod = il.MakeComparable(
+               ^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ilamblib.py", line 2556, in MakeComparable
+    raise VarsNotComparable()
+ILAMB.ilamblib.VarsNotComparable: VarNotComparable
+
+[INFO][0][MakeComparable][Precipitation/Vimal][CLM5] Spatial data was clipped from the comparison:  before: [471 192 288] after: [471  45  96]
+[INFO][0][AnalysisMeanStateSpace][pr] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][pr] RMSE scored using Collier2018
+[INFO][0][confront][Precipitation/Vimal][CLM5] Success
+[DEBUG][0][extractTimeSeries][DLEM] Could not find [pr] in the model results
+[DEBUG][0][WorkConfront][Precipitation/Vimal][DLEM]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 433, in extractTimeSeries
+    raise il.VarNotInModel()
+ILAMB.ilamblib.VarNotInModel: VarNotInModel
+
+[INFO][0][MakeComparable][Precipitation/Vimal][IBIS] Spatial data was clipped from the comparison:  before: [471 180 360] after: [471  43 120]
+[INFO][0][AnalysisMeanStateSpace][pr] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][pr] RMSE scored using Collier2018
+[INFO][0][confront][Precipitation/Vimal][IBIS] Success
+[INFO][0][MakeComparable][Precipitation/Vimal][ISAM] Spatial data was clipped from the comparison:  before: [471 360 720] after: [471  84 239]
+[INFO][0][AnalysisMeanStateSpace][pr] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][pr] RMSE scored using Collier2018
+[INFO][0][confront][Precipitation/Vimal][ISAM] Success
+[INFO][0][MakeComparable][Precipitation/Vimal][ISBA-CTRIP] Spatial data was clipped from the comparison:  before: [471 176 360] after: [471  43 120]
+[INFO][0][AnalysisMeanStateSpace][pr] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][pr] RMSE scored using Collier2018
+[INFO][0][confront][Precipitation/Vimal][ISBA-CTRIP] Success
+[INFO][0][MakeComparable][Precipitation/Vimal][JSBACH] Spatial data was clipped from the comparison:  before: [472  96 192] after: [472  23  64]
+[DEBUG][0][MakeComparable][Precipitation/Vimal][JSBACH] Datasets have differing numbers of time intervals: reference = 471, comparison = 472
+[DEBUG][0][WorkConfront][Precipitation/Vimal][JSBACH]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 378, in stageData
+    obs, mod = il.MakeComparable(
+               ^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ilamblib.py", line 2556, in MakeComparable
+    raise VarsNotComparable()
+ILAMB.ilamblib.VarsNotComparable: VarNotComparable
+
+[INFO][0][MakeComparable][Precipitation/Vimal][JULES] Spatial data was clipped from the comparison:  before: [471 144 192] after: [471  34  64]
+[INFO][0][AnalysisMeanStateSpace][pr] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][pr] RMSE scored using Collier2018
+[INFO][0][confront][Precipitation/Vimal][JULES] Success
+[DEBUG][0][extractTimeSeries][LPJ-GUESS] Could not find [pr] in the model results
+[DEBUG][0][WorkConfront][Precipitation/Vimal][LPJ-GUESS]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 433, in extractTimeSeries
+    raise il.VarNotInModel()
+ILAMB.ilamblib.VarNotInModel: VarNotInModel
+
+[DEBUG][0][extractTimeSeries][LPJwsl] Could not find [pr] in the model results
+[DEBUG][0][WorkConfront][Precipitation/Vimal][LPJwsl]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 433, in extractTimeSeries
+    raise il.VarNotInModel()
+ILAMB.ilamblib.VarNotInModel: VarNotInModel
+
+[INFO][0][MakeComparable][Precipitation/Vimal][LPX-Bern] Spatial data was clipped from the comparison:  before: [471 360 720] after: [471  84 239]
+[INFO][0][AnalysisMeanStateSpace][pr] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][pr] RMSE scored using Collier2018
+[INFO][0][confront][Precipitation/Vimal][LPX-Bern] Success
+[INFO][0][MakeComparable][Precipitation/Vimal][OCN] Spatial data was clipped from the comparison:  before: [472 180 360] after: [472  43 120]
+[DEBUG][0][MakeComparable][Precipitation/Vimal][OCN] Datasets have differing numbers of time intervals: reference = 471, comparison = 472
+[DEBUG][0][WorkConfront][Precipitation/Vimal][OCN]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 378, in stageData
+    obs, mod = il.MakeComparable(
+               ^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ilamblib.py", line 2556, in MakeComparable
+    raise VarsNotComparable()
+ILAMB.ilamblib.VarsNotComparable: VarNotComparable
+
+[INFO][0][MakeComparable][Precipitation/Vimal][ORCHIDEE] Spatial data was clipped from the comparison:  before: [471 360 720] after: [471  84 239]
+[INFO][0][AnalysisMeanStateSpace][pr] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][pr] RMSE scored using Collier2018
+[INFO][0][confront][Precipitation/Vimal][ORCHIDEE] Success
+[INFO][0][MakeComparable][Precipitation/Vimal][ORCHIDEE-CNP] Spatial data was clipped from the comparison:  before: [471  90 180] after: [471  22  61]
+[INFO][0][AnalysisMeanStateSpace][pr] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][pr] RMSE scored using Collier2018
+[INFO][0][confront][Precipitation/Vimal][ORCHIDEE-CNP] Success
+[INFO][0][MakeComparable][Precipitation/Vimal][ORCHIDEEv3] Spatial data was clipped from the comparison:  before: [471 360 720] after: [471  84 239]
+[INFO][0][AnalysisMeanStateSpace][pr] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][pr] RMSE scored using Collier2018
+[INFO][0][confront][Precipitation/Vimal][ORCHIDEEv3] Success
+[INFO][0][MakeComparable][Precipitation/Vimal][SDGVM] Spatial data was clipped from the comparison:  before: [471 180 360] after: [471  43 120]
+[INFO][0][AnalysisMeanStateSpace][pr] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][pr] RMSE scored using Collier2018
+[INFO][0][confront][Precipitation/Vimal][SDGVM] Success
+[DEBUG][0][WorkConfront][Precipitation/Vimal][TRENDY_Mean]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 359, in extractTimeSeries
+    var = Variable(
+          ^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Variable.py", line 140, in __init__
+    out = il.FromNetCDF4(
+          ^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ilamblib.py", line 941, in FromNetCDF4
+    t, t_bnd, cbounds, begin, end, calendar = GetTime(
+                                              ^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ilamblib.py", line 359, in GetTime
+    raise ValueError(msg)
+ValueError: Time intervals defined in /Users/jmp838/Desktop/TRENDY/ILAMB_run/MODELS/TRENDY_Mean/pr/pr_annual.nc:time_bnds are not continuous
+
+[INFO][0][MakeComparable][Precipitation/Vimal][VISIT] Spatial data was clipped from the comparison:  before: [471 360 720] after: [471  84 239]
+[INFO][0][AnalysisMeanStateSpace][pr] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][pr] RMSE scored using Collier2018
+[INFO][0][confront][Precipitation/Vimal][VISIT] Success
+[DEBUG][0][extractTimeSeries][YIBs] Could not find [pr] in the model results
+[DEBUG][0][WorkConfront][Precipitation/Vimal][YIBs]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 433, in extractTimeSeries
+    raise il.VarNotInModel()
+ILAMB.ilamblib.VarNotInModel: VarNotInModel
+
+[INFO][0][AnalysisMeanStateSites][tas] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][tas] RMSE scored using Collier2018
+[INFO][0][confront][NearSurfaceAirTemperature/ABCflux][CABLE-POP] Success
+[INFO][0][AnalysisMeanStateSites][tas] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][tas] RMSE scored using Collier2018
+[INFO][0][confront][NearSurfaceAirTemperature/ABCflux][CLASSIC] Success
+[INFO][0][AnalysisMeanStateSites][tas] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][tas] RMSE scored using Collier2018
+[INFO][0][confront][NearSurfaceAirTemperature/ABCflux][CLM5] Success
+[DEBUG][0][extractTimeSeries][DLEM] Could not find [tas] in the model results
+[DEBUG][0][WorkConfront][NearSurfaceAirTemperature/ABCflux][DLEM]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 433, in extractTimeSeries
+    raise il.VarNotInModel()
+ILAMB.ilamblib.VarNotInModel: VarNotInModel
+
+[INFO][0][AnalysisMeanStateSites][tas] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][tas] RMSE scored using Collier2018
+[INFO][0][confront][NearSurfaceAirTemperature/ABCflux][IBIS] Success
+[INFO][0][AnalysisMeanStateSites][tas] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][tas] RMSE scored using Collier2018
+[INFO][0][confront][NearSurfaceAirTemperature/ABCflux][ISAM] Success
+[INFO][0][AnalysisMeanStateSites][tas] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][tas] RMSE scored using Collier2018
+[INFO][0][confront][NearSurfaceAirTemperature/ABCflux][ISBA-CTRIP] Success
+[INFO][0][AnalysisMeanStateSites][tas] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][tas] RMSE scored using Collier2018
+[INFO][0][confront][NearSurfaceAirTemperature/ABCflux][JSBACH] Success
+[INFO][0][AnalysisMeanStateSites][tas] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][tas] RMSE scored using Collier2018
+[INFO][0][confront][NearSurfaceAirTemperature/ABCflux][JULES] Success
+[DEBUG][0][extractTimeSeries][LPJ-GUESS] Could not find [tas] in the model results
+[DEBUG][0][WorkConfront][NearSurfaceAirTemperature/ABCflux][LPJ-GUESS]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 433, in extractTimeSeries
+    raise il.VarNotInModel()
+ILAMB.ilamblib.VarNotInModel: VarNotInModel
+
+[DEBUG][0][extractTimeSeries][LPJwsl] Could not find [tas] in the model results
+[DEBUG][0][WorkConfront][NearSurfaceAirTemperature/ABCflux][LPJwsl]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 433, in extractTimeSeries
+    raise il.VarNotInModel()
+ILAMB.ilamblib.VarNotInModel: VarNotInModel
+
+[INFO][0][AnalysisMeanStateSites][tas] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][tas] RMSE scored using Collier2018
+[INFO][0][confront][NearSurfaceAirTemperature/ABCflux][LPX-Bern] Success
+[INFO][0][AnalysisMeanStateSites][tas] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][tas] RMSE scored using Collier2018
+[INFO][0][confront][NearSurfaceAirTemperature/ABCflux][OCN] Success
+[INFO][0][AnalysisMeanStateSites][tas] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][tas] RMSE scored using Collier2018
+[INFO][0][confront][NearSurfaceAirTemperature/ABCflux][ORCHIDEE] Success
+[INFO][0][AnalysisMeanStateSites][tas] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][tas] RMSE scored using Collier2018
+[INFO][0][confront][NearSurfaceAirTemperature/ABCflux][ORCHIDEE-CNP] Success
+[INFO][0][AnalysisMeanStateSites][tas] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][tas] RMSE scored using Collier2018
+[INFO][0][confront][NearSurfaceAirTemperature/ABCflux][ORCHIDEEv3] Success
+[INFO][0][AnalysisMeanStateSites][tas] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][tas] RMSE scored using Collier2018
+[INFO][0][confront][NearSurfaceAirTemperature/ABCflux][SDGVM] Success
+[INFO][0][AnalysisMeanStateSites][tas] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][tas] RMSE scored using Collier2018
+[INFO][0][confront][NearSurfaceAirTemperature/ABCflux][TRENDY_Mean] Success
+[INFO][0][AnalysisMeanStateSites][tas] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][tas] RMSE scored using Collier2018
+[INFO][0][confront][NearSurfaceAirTemperature/ABCflux][VISIT] Success
+[INFO][0][AnalysisMeanStateSites][tas] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSites][tas] RMSE scored using Collier2018
+[INFO][0][confront][NearSurfaceAirTemperature/ABCflux][YIBs] Success
+[INFO][0][MakeComparable][NearSurfaceAirTemperature/Vimal][CABLE-POP] Spatial data was clipped from the comparison:  before: [471 176 360] after: [471  43 120]
+[INFO][0][AnalysisMeanStateSpace][tas] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][tas] RMSE scored using Collier2018
+[INFO][0][confront][NearSurfaceAirTemperature/Vimal][CABLE-POP] Success
+[INFO][0][MakeComparable][NearSurfaceAirTemperature/Vimal][CLASSIC] Spatial data was clipped from the comparison:  before: [472  64 128] after: [472  16  43]
+[DEBUG][0][MakeComparable][NearSurfaceAirTemperature/Vimal][CLASSIC] Datasets have differing numbers of time intervals: reference = 471, comparison = 472
+[DEBUG][0][WorkConfront][NearSurfaceAirTemperature/Vimal][CLASSIC]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 378, in stageData
+    obs, mod = il.MakeComparable(
+               ^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ilamblib.py", line 2556, in MakeComparable
+    raise VarsNotComparable()
+ILAMB.ilamblib.VarsNotComparable: VarNotComparable
+
+[INFO][0][MakeComparable][NearSurfaceAirTemperature/Vimal][CLM5] Spatial data was clipped from the comparison:  before: [471 192 288] after: [471  45  96]
+[INFO][0][AnalysisMeanStateSpace][tas] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][tas] RMSE scored using Collier2018
+[INFO][0][confront][NearSurfaceAirTemperature/Vimal][CLM5] Success
+[DEBUG][0][extractTimeSeries][DLEM] Could not find [tas] in the model results
+[DEBUG][0][WorkConfront][NearSurfaceAirTemperature/Vimal][DLEM]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 433, in extractTimeSeries
+    raise il.VarNotInModel()
+ILAMB.ilamblib.VarNotInModel: VarNotInModel
+
+[INFO][0][MakeComparable][NearSurfaceAirTemperature/Vimal][IBIS] Spatial data was clipped from the comparison:  before: [471 180 360] after: [471  43 120]
+[INFO][0][AnalysisMeanStateSpace][tas] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][tas] RMSE scored using Collier2018
+[INFO][0][confront][NearSurfaceAirTemperature/Vimal][IBIS] Success
+[INFO][0][MakeComparable][NearSurfaceAirTemperature/Vimal][ISAM] Spatial data was clipped from the comparison:  before: [471 360 720] after: [471  84 239]
+[INFO][0][AnalysisMeanStateSpace][tas] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][tas] RMSE scored using Collier2018
+[INFO][0][confront][NearSurfaceAirTemperature/Vimal][ISAM] Success
+[INFO][0][MakeComparable][NearSurfaceAirTemperature/Vimal][ISBA-CTRIP] Spatial data was clipped from the comparison:  before: [471 176 360] after: [471  43 120]
+[INFO][0][AnalysisMeanStateSpace][tas] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][tas] RMSE scored using Collier2018
+[INFO][0][confront][NearSurfaceAirTemperature/Vimal][ISBA-CTRIP] Success
+[INFO][0][MakeComparable][NearSurfaceAirTemperature/Vimal][JSBACH] Spatial data was clipped from the comparison:  before: [472  96 192] after: [472  23  64]
+[DEBUG][0][MakeComparable][NearSurfaceAirTemperature/Vimal][JSBACH] Datasets have differing numbers of time intervals: reference = 471, comparison = 472
+[DEBUG][0][WorkConfront][NearSurfaceAirTemperature/Vimal][JSBACH]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 378, in stageData
+    obs, mod = il.MakeComparable(
+               ^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ilamblib.py", line 2556, in MakeComparable
+    raise VarsNotComparable()
+ILAMB.ilamblib.VarsNotComparable: VarNotComparable
+
+[INFO][0][MakeComparable][NearSurfaceAirTemperature/Vimal][JULES] Spatial data was clipped from the comparison:  before: [471 144 192] after: [471  34  64]
+[INFO][0][AnalysisMeanStateSpace][tas] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][tas] RMSE scored using Collier2018
+[INFO][0][confront][NearSurfaceAirTemperature/Vimal][JULES] Success
+[DEBUG][0][extractTimeSeries][LPJ-GUESS] Could not find [tas] in the model results
+[DEBUG][0][WorkConfront][NearSurfaceAirTemperature/Vimal][LPJ-GUESS]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 433, in extractTimeSeries
+    raise il.VarNotInModel()
+ILAMB.ilamblib.VarNotInModel: VarNotInModel
+
+[DEBUG][0][extractTimeSeries][LPJwsl] Could not find [tas] in the model results
+[DEBUG][0][WorkConfront][NearSurfaceAirTemperature/Vimal][LPJwsl]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 369, in stageData
+    mod = m.extractTimeSeries(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ModelResult.py", line 433, in extractTimeSeries
+    raise il.VarNotInModel()
+ILAMB.ilamblib.VarNotInModel: VarNotInModel
+
+[INFO][0][MakeComparable][NearSurfaceAirTemperature/Vimal][LPX-Bern] Spatial data was clipped from the comparison:  before: [471 360 720] after: [471  84 239]
+[INFO][0][AnalysisMeanStateSpace][tas] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][tas] RMSE scored using Collier2018
+[INFO][0][confront][NearSurfaceAirTemperature/Vimal][LPX-Bern] Success
+[INFO][0][MakeComparable][NearSurfaceAirTemperature/Vimal][OCN] Spatial data was clipped from the comparison:  before: [472 180 360] after: [472  43 120]
+[DEBUG][0][MakeComparable][NearSurfaceAirTemperature/Vimal][OCN] Datasets have differing numbers of time intervals: reference = 471, comparison = 472
+[DEBUG][0][WorkConfront][NearSurfaceAirTemperature/Vimal][OCN]
+Traceback (most recent call last):
+  File "/opt/miniconda3/envs/ilamb/bin/ilamb-run", line 561, in WorkConfront
+    c.confront(m)
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 431, in confront
+    obs, mod = self.stageData(m)
+               ^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/Confrontation.py", line 378, in stageData
+    obs, mod = il.MakeComparable(
+               ^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/envs/ilamb/lib/python3.11/site-packages/ILAMB/ilamblib.py", line 2556, in MakeComparable
+    raise VarsNotComparable()
+ILAMB.ilamblib.VarsNotComparable: VarNotComparable
+
+[INFO][0][MakeComparable][NearSurfaceAirTemperature/Vimal][ORCHIDEE] Spatial data was clipped from the comparison:  before: [471 360 720] after: [471  84 239]
+[INFO][0][AnalysisMeanStateSpace][tas] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][tas] RMSE scored using Collier2018
+[INFO][0][confront][NearSurfaceAirTemperature/Vimal][ORCHIDEE] Success
+[INFO][0][MakeComparable][NearSurfaceAirTemperature/Vimal][ORCHIDEE-CNP] Spatial data was clipped from the comparison:  before: [471  90 180] after: [471  22  61]
+[INFO][0][AnalysisMeanStateSpace][tas] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][tas] RMSE scored using Collier2018
+[INFO][0][confront][NearSurfaceAirTemperature/Vimal][ORCHIDEE-CNP] Success
+[INFO][0][MakeComparable][NearSurfaceAirTemperature/Vimal][ORCHIDEEv3] Spatial data was clipped from the comparison:  before: [471 360 720] after: [471  84 239]
+[INFO][0][AnalysisMeanStateSpace][tas] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][tas] RMSE scored using Collier2018
+[INFO][0][confront][NearSurfaceAirTemperature/Vimal][ORCHIDEEv3] Success
+[INFO][0][MakeComparable][NearSurfaceAirTemperature/Vimal][SDGVM] Spatial data was clipped from the comparison:  before: [471 180 360] after: [471  43 120]
+[INFO][0][AnalysisMeanStateSpace][tas] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][tas] RMSE scored using Collier2018
+[INFO][0][confront][NearSurfaceAirTemperature/Vimal][SDGVM] Success
+[INFO][0][MakeComparable][NearSurfaceAirTemperature/Vimal][TRENDY_Mean] Spatial data was clipped from the comparison:  before: [443 180 360] after: [443  43 120]
+[INFO][0][AnalysisMeanStateSpace][tas] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][tas] RMSE scored using Collier2018
+[INFO][0][confront][NearSurfaceAirTemperature/Vimal][TRENDY_Mean] Success
+[INFO][0][MakeComparable][NearSurfaceAirTemperature/Vimal][VISIT] Spatial data was clipped from the comparison:  before: [471 360 720] after: [471  84 239]
+[INFO][0][AnalysisMeanStateSpace][tas] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][tas] RMSE scored using Collier2018
+[INFO][0][confront][NearSurfaceAirTemperature/Vimal][VISIT] Success
+[INFO][0][MakeComparable][NearSurfaceAirTemperature/Vimal][YIBs] Spatial data was clipped from the comparison:  before: [471 181 360] after: [471  42 120]
+[INFO][0][AnalysisMeanStateSpace][tas] Bias scored using Collier2018
+[INFO][0][AnalysisMeanStateSpace][tas] RMSE scored using Collier2018
+[INFO][0][confront][NearSurfaceAirTemperature/Vimal][YIBs] Success
+[INFO][0][modelPlots][Biomass/Berner][CABLE-POP] Success
+[INFO][0][modelPlots][Biomass/Berner][CLASSIC] Success
+[INFO][0][modelPlots][Biomass/Berner][CLM5] Success
+[INFO][0][modelPlots][Biomass/Berner][DLEM] Success
+[INFO][0][modelPlots][Biomass/Berner][IBIS] Success
+[INFO][0][modelPlots][Biomass/Berner][ISAM] Success
+[INFO][0][modelPlots][Biomass/Berner][ISBA-CTRIP] Success
+[INFO][0][modelPlots][Biomass/Berner][JSBACH] Success
+[INFO][0][modelPlots][Biomass/Berner][JULES] Success
+[INFO][0][modelPlots][Biomass/Berner][LPJ-GUESS] Success
+[INFO][0][modelPlots][Biomass/Berner][LPJwsl] Success
+[INFO][0][modelPlots][Biomass/Berner][LPX-Bern] Success
+[INFO][0][modelPlots][Biomass/Berner][OCN] Success
+[INFO][0][modelPlots][Biomass/Berner][ORCHIDEE] Success
+[INFO][0][modelPlots][Biomass/Berner][ORCHIDEE-CNP] Success
+[INFO][0][modelPlots][Biomass/Berner][ORCHIDEEv3] Success
+[INFO][0][modelPlots][Biomass/Berner][TRENDY_Mean] Success
+[INFO][0][modelPlots][Biomass/Berner][VISIT] Success
+[INFO][0][modelPlots][Biomass/Berner][YIBs] Success
+[INFO][0][modelPlots][Biomass/NACP][CABLE-POP] Success
+[INFO][0][modelPlots][Biomass/NACP][CLASSIC] Success
+[INFO][0][modelPlots][Biomass/NACP][CLM5] Success
+[INFO][0][modelPlots][Biomass/NACP][DLEM] Success
+[INFO][0][modelPlots][Biomass/NACP][IBIS] Success
+[INFO][0][modelPlots][Biomass/NACP][ISAM] Success
+[INFO][0][modelPlots][Biomass/NACP][ISBA-CTRIP] Success
+[INFO][0][modelPlots][Biomass/NACP][JSBACH] Success
+[INFO][0][modelPlots][Biomass/NACP][JULES] Success
+[INFO][0][modelPlots][Biomass/NACP][LPJ-GUESS] Success
+[INFO][0][modelPlots][Biomass/NACP][LPJwsl] Success
+[INFO][0][modelPlots][Biomass/NACP][LPX-Bern] Success
+[INFO][0][modelPlots][Biomass/NACP][OCN] Success
+[INFO][0][modelPlots][Biomass/NACP][ORCHIDEE] Success
+[INFO][0][modelPlots][Biomass/NACP][ORCHIDEE-CNP] Success
+[INFO][0][modelPlots][Biomass/NACP][ORCHIDEEv3] Success
+[INFO][0][modelPlots][Biomass/NACP][TRENDY_Mean] Success
+[INFO][0][modelPlots][Biomass/NACP][VISIT] Success
+[INFO][0][modelPlots][Biomass/NACP][YIBs] Success
+[INFO][0][modelPlots][EcosystemRespiration/ABCflux][CABLE-POP] Success
+[INFO][0][modelPlots][EcosystemRespiration/ABCflux][CLASSIC] Success
+[INFO][0][modelPlots][EcosystemRespiration/ABCflux][CLM5] Success
+[INFO][0][modelPlots][EcosystemRespiration/ABCflux][DLEM] Success
+[INFO][0][modelPlots][EcosystemRespiration/ABCflux][IBIS] Success
+[INFO][0][modelPlots][EcosystemRespiration/ABCflux][ISAM] Success
+[INFO][0][modelPlots][EcosystemRespiration/ABCflux][ISBA-CTRIP] Success
+[INFO][0][modelPlots][EcosystemRespiration/ABCflux][JSBACH] Success
+[INFO][0][modelPlots][EcosystemRespiration/ABCflux][LPJwsl] Success
+[INFO][0][modelPlots][EcosystemRespiration/ABCflux][LPX-Bern] Success
+[INFO][0][modelPlots][EcosystemRespiration/ABCflux][OCN] Success
+[INFO][0][modelPlots][EcosystemRespiration/ABCflux][ORCHIDEE] Success
+[INFO][0][modelPlots][EcosystemRespiration/ABCflux][ORCHIDEE-CNP] Success
+[INFO][0][modelPlots][EcosystemRespiration/ABCflux][ORCHIDEEv3] Success
+[INFO][0][modelPlots][EcosystemRespiration/ABCflux][SDGVM] Success
+[INFO][0][modelPlots][EcosystemRespiration/ABCflux][TRENDY_Mean] Success
+[INFO][0][modelPlots][EcosystemRespiration/ABCflux][VISIT] Success
+[INFO][0][modelPlots][EcosystemRespiration/ABCflux][YIBs] Success
+[INFO][0][modelPlots][EcosystemRespiration/CARVE][CABLE-POP] Success
+[INFO][0][modelPlots][EcosystemRespiration/CARVE][CLASSIC] Success
+[INFO][0][modelPlots][EcosystemRespiration/CARVE][CLM5] Success
+[INFO][0][modelPlots][EcosystemRespiration/CARVE][DLEM] Success
+[INFO][0][modelPlots][EcosystemRespiration/CARVE][IBIS] Success
+[INFO][0][modelPlots][EcosystemRespiration/CARVE][ISAM] Success
+[INFO][0][modelPlots][EcosystemRespiration/CARVE][ISBA-CTRIP] Success
+[INFO][0][modelPlots][EcosystemRespiration/CARVE][JSBACH] Success
+[INFO][0][modelPlots][EcosystemRespiration/CARVE][LPJwsl] Success
+[INFO][0][modelPlots][EcosystemRespiration/CARVE][LPX-Bern] Success
+[INFO][0][modelPlots][EcosystemRespiration/CARVE][OCN] Success
+[INFO][0][modelPlots][EcosystemRespiration/CARVE][ORCHIDEE] Success
+[INFO][0][modelPlots][EcosystemRespiration/CARVE][ORCHIDEE-CNP] Success
+[INFO][0][modelPlots][EcosystemRespiration/CARVE][ORCHIDEEv3] Success
+[INFO][0][modelPlots][EcosystemRespiration/CARVE][SDGVM] Success
+[INFO][0][modelPlots][EcosystemRespiration/CARVE][TRENDY_Mean] Success
+[INFO][0][modelPlots][EcosystemRespiration/CARVE][VISIT] Success
+[INFO][0][modelPlots][EcosystemRespiration/CARVE][YIBs] Success
+[INFO][0][modelPlots][EcosystemRespiration/Virkkala][CABLE-POP] Success
+[INFO][0][modelPlots][EcosystemRespiration/Virkkala][CLASSIC] Success
+[INFO][0][modelPlots][EcosystemRespiration/Virkkala][CLM5] Success
+[INFO][0][modelPlots][EcosystemRespiration/Virkkala][DLEM] Success
+[INFO][0][modelPlots][EcosystemRespiration/Virkkala][IBIS] Success
+[INFO][0][modelPlots][EcosystemRespiration/Virkkala][ISAM] Success
+[INFO][0][modelPlots][EcosystemRespiration/Virkkala][ISBA-CTRIP] Success
+[INFO][0][modelPlots][EcosystemRespiration/Virkkala][JSBACH] Success
+[INFO][0][modelPlots][EcosystemRespiration/Virkkala][LPJwsl] Success
+[INFO][0][modelPlots][EcosystemRespiration/Virkkala][LPX-Bern] Success
+[INFO][0][modelPlots][EcosystemRespiration/Virkkala][OCN] Success
+[INFO][0][modelPlots][EcosystemRespiration/Virkkala][ORCHIDEE] Success
+[INFO][0][modelPlots][EcosystemRespiration/Virkkala][ORCHIDEE-CNP] Success
+[INFO][0][modelPlots][EcosystemRespiration/Virkkala][ORCHIDEEv3] Success
+[INFO][0][modelPlots][EcosystemRespiration/Virkkala][SDGVM] Success
+[INFO][0][modelPlots][EcosystemRespiration/Virkkala][TRENDY_Mean] Success
+[INFO][0][modelPlots][EcosystemRespiration/Virkkala][VISIT] Success
+[INFO][0][modelPlots][EcosystemRespiration/Virkkala][YIBs] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/ABCflux][CABLE-POP] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/ABCflux][CLASSIC] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/ABCflux][CLM5] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/ABCflux][DLEM] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/ABCflux][IBIS] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/ABCflux][ISAM] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/ABCflux][ISBA-CTRIP] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/ABCflux][JSBACH] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/ABCflux][JULES] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/ABCflux][LPJ-GUESS] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/ABCflux][LPJwsl] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/ABCflux][LPX-Bern] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/ABCflux][OCN] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/ABCflux][ORCHIDEE] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/ABCflux][ORCHIDEE-CNP] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/ABCflux][ORCHIDEEv3] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/ABCflux][SDGVM] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/ABCflux][VISIT] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/ABCflux][YIBs] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/CARVE][CABLE-POP] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/CARVE][CLASSIC] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/CARVE][CLM5] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/CARVE][DLEM] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/CARVE][IBIS] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/CARVE][ISAM] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/CARVE][ISBA-CTRIP] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/CARVE][JSBACH] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/CARVE][JULES] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/CARVE][LPJ-GUESS] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/CARVE][LPJwsl] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/CARVE][LPX-Bern] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/CARVE][OCN] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/CARVE][ORCHIDEE] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/CARVE][ORCHIDEE-CNP] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/CARVE][ORCHIDEEv3] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/CARVE][SDGVM] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/CARVE][VISIT] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/CARVE][YIBs] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/Virkkala][CABLE-POP] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/Virkkala][CLASSIC] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/Virkkala][CLM5] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/Virkkala][DLEM] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/Virkkala][IBIS] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/Virkkala][ISAM] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/Virkkala][ISBA-CTRIP] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/Virkkala][JSBACH] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/Virkkala][JULES] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/Virkkala][LPJ-GUESS] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/Virkkala][LPJwsl] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/Virkkala][LPX-Bern] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/Virkkala][OCN] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/Virkkala][ORCHIDEE] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/Virkkala][ORCHIDEE-CNP] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/Virkkala][ORCHIDEEv3] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/Virkkala][SDGVM] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/Virkkala][VISIT] Success
+[INFO][0][modelPlots][GrossPrimaryProduction/Virkkala][YIBs] Success
+[INFO][0][modelPlots][NetEcosystemExchange/ABCflux][CABLE-POP] Success
+[INFO][0][modelPlots][NetEcosystemExchange/ABCflux][CLASSIC] Success
+[INFO][0][modelPlots][NetEcosystemExchange/ABCflux][CLM5] Success
+[INFO][0][modelPlots][NetEcosystemExchange/ABCflux][DLEM] Success
+[INFO][0][modelPlots][NetEcosystemExchange/ABCflux][IBIS] Success
+[INFO][0][modelPlots][NetEcosystemExchange/ABCflux][ISAM] Success
+[INFO][0][modelPlots][NetEcosystemExchange/ABCflux][ISBA-CTRIP] Success
+[INFO][0][modelPlots][NetEcosystemExchange/ABCflux][JSBACH] Success
+[INFO][0][modelPlots][NetEcosystemExchange/ABCflux][JULES] Success
+[INFO][0][modelPlots][NetEcosystemExchange/ABCflux][LPX-Bern] Success
+[INFO][0][modelPlots][NetEcosystemExchange/ABCflux][OCN] Success
+[INFO][0][modelPlots][NetEcosystemExchange/ABCflux][ORCHIDEE] Success
+[INFO][0][modelPlots][NetEcosystemExchange/ABCflux][ORCHIDEE-CNP] Success
+[INFO][0][modelPlots][NetEcosystemExchange/ABCflux][ORCHIDEEv3] Success
+[INFO][0][modelPlots][NetEcosystemExchange/ABCflux][SDGVM] Success
+[INFO][0][modelPlots][NetEcosystemExchange/ABCflux][TRENDY_Mean] Success
+[INFO][0][modelPlots][NetEcosystemExchange/ABCflux][YIBs] Success
+[INFO][0][modelPlots][NetEcosystemExchange/CARVE][CABLE-POP] Success
+[INFO][0][modelPlots][NetEcosystemExchange/CARVE][CLASSIC] Success
+[INFO][0][modelPlots][NetEcosystemExchange/CARVE][CLM5] Success
+[INFO][0][modelPlots][NetEcosystemExchange/CARVE][DLEM] Success
+[INFO][0][modelPlots][NetEcosystemExchange/CARVE][IBIS] Success
+[INFO][0][modelPlots][NetEcosystemExchange/CARVE][ISAM] Success
+[INFO][0][modelPlots][NetEcosystemExchange/CARVE][ISBA-CTRIP] Success
+[INFO][0][modelPlots][NetEcosystemExchange/CARVE][JSBACH] Success
+[INFO][0][modelPlots][NetEcosystemExchange/CARVE][JULES] Success
+[INFO][0][modelPlots][NetEcosystemExchange/CARVE][LPX-Bern] Success
+[INFO][0][modelPlots][NetEcosystemExchange/CARVE][OCN] Success
+[INFO][0][modelPlots][NetEcosystemExchange/CARVE][ORCHIDEE] Success
+[INFO][0][modelPlots][NetEcosystemExchange/CARVE][ORCHIDEE-CNP] Success
+[INFO][0][modelPlots][NetEcosystemExchange/CARVE][ORCHIDEEv3] Success
+[INFO][0][modelPlots][NetEcosystemExchange/CARVE][SDGVM] Success
+[INFO][0][modelPlots][NetEcosystemExchange/CARVE][TRENDY_Mean] Success
+[INFO][0][modelPlots][NetEcosystemExchange/CARVE][YIBs] Success
+[INFO][0][modelPlots][NetEcosystemExchange/Virkkala][CABLE-POP] Success
+[INFO][0][modelPlots][NetEcosystemExchange/Virkkala][CLASSIC] Success
+[INFO][0][modelPlots][NetEcosystemExchange/Virkkala][CLM5] Success
+[INFO][0][modelPlots][NetEcosystemExchange/Virkkala][DLEM] Success
+[INFO][0][modelPlots][NetEcosystemExchange/Virkkala][IBIS] Success
+[INFO][0][modelPlots][NetEcosystemExchange/Virkkala][ISAM] Success
+[INFO][0][modelPlots][NetEcosystemExchange/Virkkala][ISBA-CTRIP] Success
+[INFO][0][modelPlots][NetEcosystemExchange/Virkkala][JSBACH] Success
+[INFO][0][modelPlots][NetEcosystemExchange/Virkkala][JULES] Success
+[INFO][0][modelPlots][NetEcosystemExchange/Virkkala][LPX-Bern] Success
+[INFO][0][modelPlots][NetEcosystemExchange/Virkkala][OCN] Success
+[INFO][0][modelPlots][NetEcosystemExchange/Virkkala][ORCHIDEE] Success
+[INFO][0][modelPlots][NetEcosystemExchange/Virkkala][ORCHIDEE-CNP] Success
+[INFO][0][modelPlots][NetEcosystemExchange/Virkkala][ORCHIDEEv3] Success
+[INFO][0][modelPlots][NetEcosystemExchange/Virkkala][SDGVM] Success
+[INFO][0][modelPlots][NetEcosystemExchange/Virkkala][TRENDY_Mean] Success
+[INFO][0][modelPlots][NetEcosystemExchange/Virkkala][YIBs] Success
+[INFO][0][modelPlots][SoilCarbon/NCSCDv2][CABLE-POP] Success
+[INFO][0][modelPlots][SoilCarbon/NCSCDv2][CLASSIC] Success
+[INFO][0][modelPlots][SoilCarbon/NCSCDv2][CLM5] Success
+[INFO][0][modelPlots][SoilCarbon/NCSCDv2][DLEM] Success
+[INFO][0][modelPlots][SoilCarbon/NCSCDv2][IBIS] Success
+[INFO][0][modelPlots][SoilCarbon/NCSCDv2][ISAM] Success
+[INFO][0][modelPlots][SoilCarbon/NCSCDv2][ISBA-CTRIP] Success
+[INFO][0][modelPlots][SoilCarbon/NCSCDv2][JSBACH] Success
+[INFO][0][modelPlots][SoilCarbon/NCSCDv2][JULES] Success
+[INFO][0][modelPlots][SoilCarbon/NCSCDv2][LPJ-GUESS] Success
+[INFO][0][modelPlots][SoilCarbon/NCSCDv2][LPJwsl] Success
+[INFO][0][modelPlots][SoilCarbon/NCSCDv2][LPX-Bern] Success
+[INFO][0][modelPlots][SoilCarbon/NCSCDv2][OCN] Success
+[INFO][0][modelPlots][SoilCarbon/NCSCDv2][ORCHIDEE] Success
+[INFO][0][modelPlots][SoilCarbon/NCSCDv2][ORCHIDEE-CNP] Success
+[INFO][0][modelPlots][SoilCarbon/NCSCDv2][ORCHIDEEv3] Success
+[INFO][0][modelPlots][SoilCarbon/NCSCDv2][SDGVM] Success
+[INFO][0][modelPlots][SoilCarbon/NCSCDv2][VISIT] Success
+[INFO][0][modelPlots][SoilCarbon/NCSCDv2][YIBs] Success
+[INFO][0][modelPlots][Evapotranspiration/Vimal][CABLE-POP] Success
+[INFO][0][modelPlots][Evapotranspiration/Vimal][CLM5] Success
+[INFO][0][modelPlots][Evapotranspiration/Vimal][DLEM] Success
+[INFO][0][modelPlots][Evapotranspiration/Vimal][IBIS] Success
+[INFO][0][modelPlots][Evapotranspiration/Vimal][ISAM] Success
+[INFO][0][modelPlots][Evapotranspiration/Vimal][ISBA-CTRIP] Success
+[INFO][0][modelPlots][Evapotranspiration/Vimal][JULES] Success
+[INFO][0][modelPlots][Evapotranspiration/Vimal][LPJ-GUESS] Success
+[INFO][0][modelPlots][Evapotranspiration/Vimal][LPX-Bern] Success
+[INFO][0][modelPlots][Evapotranspiration/Vimal][ORCHIDEE] Success
+[INFO][0][modelPlots][Evapotranspiration/Vimal][ORCHIDEE-CNP] Success
+[INFO][0][modelPlots][Evapotranspiration/Vimal][ORCHIDEEv3] Success
+[INFO][0][modelPlots][Evapotranspiration/Vimal][SDGVM] Success
+[INFO][0][modelPlots][Evapotranspiration/Vimal][TRENDY_Mean] Success
+[INFO][0][modelPlots][Evapotranspiration/Vimal][VISIT] Success
+[INFO][0][modelPlots][SurfaceDownwellingShortwaveRadiation/Vimal][CABLE-POP] Success
+[INFO][0][modelPlots][SurfaceDownwellingShortwaveRadiation/Vimal][CLM5] Success
+[INFO][0][modelPlots][SurfaceDownwellingShortwaveRadiation/Vimal][IBIS] Success
+[INFO][0][modelPlots][SurfaceDownwellingShortwaveRadiation/Vimal][ISAM] Success
+[INFO][0][modelPlots][SurfaceDownwellingShortwaveRadiation/Vimal][ISBA-CTRIP] Success
+[INFO][0][modelPlots][SurfaceDownwellingShortwaveRadiation/Vimal][JULES] Success
+[INFO][0][modelPlots][SurfaceDownwellingShortwaveRadiation/Vimal][LPX-Bern] Success
+[INFO][0][modelPlots][SurfaceDownwellingShortwaveRadiation/Vimal][ORCHIDEE] Success
+[INFO][0][modelPlots][SurfaceDownwellingShortwaveRadiation/Vimal][ORCHIDEE-CNP] Success
+[INFO][0][modelPlots][SurfaceDownwellingShortwaveRadiation/Vimal][ORCHIDEEv3] Success
+[INFO][0][modelPlots][SurfaceDownwellingShortwaveRadiation/Vimal][SDGVM] Success
+[INFO][0][modelPlots][SurfaceDownwellingShortwaveRadiation/Vimal][VISIT] Success
+[INFO][0][modelPlots][SurfaceDownwellingShortwaveRadiation/Vimal][YIBs] Success
+[INFO][0][modelPlots][Precipitation/ABCflux][CABLE-POP] Success
+[INFO][0][modelPlots][Precipitation/ABCflux][CLASSIC] Success
+[INFO][0][modelPlots][Precipitation/ABCflux][CLM5] Success
+[INFO][0][modelPlots][Precipitation/ABCflux][IBIS] Success
+[INFO][0][modelPlots][Precipitation/ABCflux][ISAM] Success
+[INFO][0][modelPlots][Precipitation/ABCflux][ISBA-CTRIP] Success
+[INFO][0][modelPlots][Precipitation/ABCflux][JSBACH] Success
+[INFO][0][modelPlots][Precipitation/ABCflux][JULES] Success
+[INFO][0][modelPlots][Precipitation/ABCflux][LPX-Bern] Success
+[INFO][0][modelPlots][Precipitation/ABCflux][OCN] Success
+[INFO][0][modelPlots][Precipitation/ABCflux][ORCHIDEE] Success
+[INFO][0][modelPlots][Precipitation/ABCflux][ORCHIDEE-CNP] Success
+[INFO][0][modelPlots][Precipitation/ABCflux][ORCHIDEEv3] Success
+[INFO][0][modelPlots][Precipitation/ABCflux][SDGVM] Success
+[INFO][0][modelPlots][Precipitation/ABCflux][VISIT] Success
+[INFO][0][modelPlots][Precipitation/Vimal][CABLE-POP] Success
+[INFO][0][modelPlots][Precipitation/Vimal][CLM5] Success
+[INFO][0][modelPlots][Precipitation/Vimal][IBIS] Success
+[INFO][0][modelPlots][Precipitation/Vimal][ISAM] Success
+[INFO][0][modelPlots][Precipitation/Vimal][ISBA-CTRIP] Success
+[INFO][0][modelPlots][Precipitation/Vimal][JULES] Success
+[INFO][0][modelPlots][Precipitation/Vimal][LPX-Bern] Success
+[INFO][0][modelPlots][Precipitation/Vimal][ORCHIDEE] Success
+[INFO][0][modelPlots][Precipitation/Vimal][ORCHIDEE-CNP] Success
+[INFO][0][modelPlots][Precipitation/Vimal][ORCHIDEEv3] Success
+[INFO][0][modelPlots][Precipitation/Vimal][SDGVM] Success
+[INFO][0][modelPlots][Precipitation/Vimal][VISIT] Success
+[INFO][0][modelPlots][NearSurfaceAirTemperature/ABCflux][CABLE-POP] Success
+[INFO][0][modelPlots][NearSurfaceAirTemperature/ABCflux][CLASSIC] Success
+[INFO][0][modelPlots][NearSurfaceAirTemperature/ABCflux][CLM5] Success
+[INFO][0][modelPlots][NearSurfaceAirTemperature/ABCflux][IBIS] Success
+[INFO][0][modelPlots][NearSurfaceAirTemperature/ABCflux][ISAM] Success
+[INFO][0][modelPlots][NearSurfaceAirTemperature/ABCflux][ISBA-CTRIP] Success
+[INFO][0][modelPlots][NearSurfaceAirTemperature/ABCflux][JSBACH] Success
+[INFO][0][modelPlots][NearSurfaceAirTemperature/ABCflux][JULES] Success
+[INFO][0][modelPlots][NearSurfaceAirTemperature/ABCflux][LPX-Bern] Success
+[INFO][0][modelPlots][NearSurfaceAirTemperature/ABCflux][OCN] Success
+[INFO][0][modelPlots][NearSurfaceAirTemperature/ABCflux][ORCHIDEE] Success
+[INFO][0][modelPlots][NearSurfaceAirTemperature/ABCflux][ORCHIDEE-CNP] Success
+[INFO][0][modelPlots][NearSurfaceAirTemperature/ABCflux][ORCHIDEEv3] Success
+[INFO][0][modelPlots][NearSurfaceAirTemperature/ABCflux][SDGVM] Success
+[INFO][0][modelPlots][NearSurfaceAirTemperature/ABCflux][TRENDY_Mean] Success
+[INFO][0][modelPlots][NearSurfaceAirTemperature/ABCflux][VISIT] Success
+[INFO][0][modelPlots][NearSurfaceAirTemperature/ABCflux][YIBs] Success
+[INFO][0][modelPlots][NearSurfaceAirTemperature/Vimal][CABLE-POP] Success
+[INFO][0][modelPlots][NearSurfaceAirTemperature/Vimal][CLM5] Success
+[INFO][0][modelPlots][NearSurfaceAirTemperature/Vimal][IBIS] Success
+[INFO][0][modelPlots][NearSurfaceAirTemperature/Vimal][ISAM] Success
+[INFO][0][modelPlots][NearSurfaceAirTemperature/Vimal][ISBA-CTRIP] Success
+[INFO][0][modelPlots][NearSurfaceAirTemperature/Vimal][JULES] Success
+[INFO][0][modelPlots][NearSurfaceAirTemperature/Vimal][LPX-Bern] Success
+[INFO][0][modelPlots][NearSurfaceAirTemperature/Vimal][ORCHIDEE] Success
+[INFO][0][modelPlots][NearSurfaceAirTemperature/Vimal][ORCHIDEE-CNP] Success
+[INFO][0][modelPlots][NearSurfaceAirTemperature/Vimal][ORCHIDEEv3] Success
+[INFO][0][modelPlots][NearSurfaceAirTemperature/Vimal][SDGVM] Success
+[INFO][0][modelPlots][NearSurfaceAirTemperature/Vimal][TRENDY_Mean] Success
+[INFO][0][modelPlots][NearSurfaceAirTemperature/Vimal][VISIT] Success
+[INFO][0][modelPlots][NearSurfaceAirTemperature/Vimal][YIBs] Success
+[INFO][0][<module>][total time] 2200.2 s
